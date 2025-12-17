@@ -1,0 +1,169 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[002] # Lappet Town
+Water,20
+    60,TENTACOOL,14,19
+    40,MAGIKARP,15,16
+    10,REMORAID,14,16
+#-------------------------------
+[005] # Bosque de Elbuin
+Land,21
+    30,PIDGEY,3,5
+    30,ZIGZAGOON,3,5
+    30,SENTRET,3,5
+    10,TEDDIURSA,5,7
+Water,20
+    100,MAGIKARP,5,5
+#-------------------------------
+[006] # Villa de oro
+Land,21
+    40,SUNKERN,6,8
+    30,KAKUNA,6,8
+    20,MACHOP,6,8
+    10,SCYTHER,7,10
+#-------------------------------
+[030] # Loch Moras
+Land,21
+    30,ODDISH,8,10
+    30,SPINARAK,8,10
+    30,CLEFFA,8,10
+    10,DELIBIRD,9,11
+#-------------------------------
+[032] # Guarida de Wendigos
+Cave,4
+    40,ZUBAT,9,12
+    30,GEODUDE,9,12
+    20,WOOBAT,9,12
+    10,SNORUNT,9,12
+#-------------------------------
+[033] # Dun Moros
+Land,21
+    30,ABRA,14,16
+    30,ARON,14,16
+    30,SNOVER,14,16
+    10,GROWLITHE,18
+#-------------------------------
+[040] # Bosque oscuro
+Land,21
+    30,GASTLY,22,24
+    30,SHUPPET,22,24
+    30,PHANTUMP,22,24
+    10,SABLEYE,24,25
+#-------------------------------
+[041] # Villa oscura
+Land,21
+    30,HOUNDOUR,24,26
+    30,DUSKULL,24,26
+    30,PHANTUMP,24,26
+    10,MIGHTYENA,27,28
+#-------------------------------
+[045] # Garganta fogosa
+Land,21
+    30,TORKOAL,30,33
+    30,DONPHAN,30,33
+    30,ONIX,30,33
+    10,CAMERUPT,34
+#-------------------------------
+[046] # Monte Piedra Negra
+Cave,4
+    30,DIGGERSBY,30,33
+    30,BINACLE,30,33
+    30,ROCKRUFF,30,33
+    10,GOLETT,34
+#-------------------------------
+[047] # Conexión BRM-BRD
+Cave,4
+    30,DIGGERSBY,30,33
+    30,BINACLE,30,33
+    30,ROCKRUFF,30,33
+    10,GOLETT,34
+#-------------------------------
+[048] # Profundidades Piedra Negra
+Cave,4
+    32,CRUSTLE,35,37
+    32,DARMANITAN,35,37
+    30,CLAYDOL,35,37
+    6,GIBLE,37
+#-------------------------------
+[050] # Cumbre Piedra Negra
+Land,21
+    30,BOUFFALANT,35,37
+    30,KROKOROK,35,37
+    30,EXCADRILL,35,37
+    10,ARCHEN,37
+#-------------------------------
+[053] # Terraza Cumbre Piedra Negra
+Land,21
+    30,HERACROSS,35,37
+    30,SKARMORY,35,37
+    30,GASTRODON,35,37
+    10,GOGOAT,37
+#-------------------------------
+[056] # Vega de Espina Torcida
+Land,21
+    20,EXEGGUTOR_1,39,41
+    20,PRIMEAPE,39,41
+    20,PASSIMIAN,39,41
+    20,KROOKODILE,39,41
+    10,JANGMOO,42
+    10,SLAKOTH,20
+Water,2
+    60,DREDNAW,40,41
+    40,FERALIGATR,39,41
+#-------------------------------
+[057] # Gul'Zurub
+Land,21
+    20,BRAVIARY,39,41
+    20,COFAGRIGUS,39,41
+    20,SEVIPER,39,41
+    20,ARIADOS,39,41
+    10,RILLABOOM,39,41
+    10,INFERNAPE,39,41
+Water,2
+    60,GYARADOS,40,41
+    40,ARAQUANID,39,41
+#-------------------------------
+[059] # Bahía del tesoro
+Water,20
+    33,BASCULIN,34,35
+    33,SHARPEDO,34,35
+    33,WAILMER,33,35
+
+
+[031] # Route 3
+Land,21
+    30,NIDORANfE,12,15
+    30,NIDORANmA,12,15
+    20,PIKACHU,14,17
+    10,EEVEE,15
+    10,PONYTA,13,15
+Water,2
+    60,SURSKIT,13,14
+    35,LOTAD,14
+    5,LOTAD,15
+OldRod
+    70,MAGIKARP,6,11
+    30,MAGIKARP,10,17
+GoodRod
+    60,POLIWAG,12,15
+    20,PSYDUCK,11,14
+    20,WOOPER,13,17
+SuperRod
+    40,CHINCHOU,11,12
+    40,REMORAID,12,14
+    20,LUVDISC,10,16
+RockSmash,50
+    60,NOSEPASS,13,14
+    40,GEODUDE,12,15
+HeadbuttLow
+    30,PINECO,14,17
+    25,COMBEE,15,17
+    20,PINECO,14,16
+    10,HERACROSS,16,18
+    9,HERACROSS,16,17
+    5,COMBEE,15,16
+    1,MUNCHLAX,13,18
+HeadbuttHigh
+    50,SEEDOT,14,17
+    30,SHROOMISH,14,17
+    20,BURMY,12,15

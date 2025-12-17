@@ -1,0 +1,458 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Abadía del norte
+Name = Abadía del norte
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Casa jugador
+Name = \PN's house
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Laboratorio Oak
+Name = Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Bosque de Elbuin
+Name = Bosque de Elbuin
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+Environment = Forest
+#-------------------------------
+[006]   # Villa de oro
+Name = Villa de oro
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[007]   # Cedolan City
+Name = Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]   # Casa de Denora
+Name = Lappet Town
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Cedolan City Poké Center
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]   # Cedolan Gym
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[011]   # Pokémon Institute
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Cedolan City Condo
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[013]   # Game Corner
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[014]   # Cedolan Dept. 1F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[015]   # Cedolan Dept. 2F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[016]   # Cedolan Dept. 3F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[017]   # Cedolan Dept. 4F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[018]   # Cedolan Dept. 5F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[019]   # Cedolan Dept. Rooftop
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[020]   # Cedolan Dept. Elevator
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[021]   # Centro pokemon Villa de oro
+Name = Centro pokemon
+Outdoor = false
+ShowArea = false
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[022]   # Gimnasio Villa de oro
+Name = Gimnasio Villa de oro
+BattleBack = indoor
+#-------------------------------
+[023]   # Lerucean Town
+Name = Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]   # Lerucean Town Poké Center
+Name = Lerucean Town
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]   # Lerucean Town Mart
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[026]   # Pokémon Fan Club
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[027]   # Pokémon Day Care
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[028]   # Tienda Villa de oro
+Name = Natural Park
+Outdoor = true
+ShowArea = false
+MapPosition = 0,16,8
+BattleBack = field
+Flags = MossRock
+#-------------------------------
+[029]   # Posada del león orgulloso
+Name = Posada del león orgulloso
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,8
+BattleBack = indoor
+#-------------------------------
+[030]   # Loch Moras
+Name = Loch Moras
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[031]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[032]   # Guarida de Wendigos
+Name = Guarida de Wendigos
+Outdoor = false
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+[033]   # Dun Moros
+Name = Dun Moros
+ShowArea = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[034]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+[035]   # Ingido Plateau outside
+Name = Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]   # Pokémon League entrance
+Name = Ingido Plateau
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]   # Pokémon League room 1
+Name = Ingido Plateau
+MapPosition = 0,13,6
+BattleBack = elite1
+Flags = DisableBoxLink
+#-------------------------------
+[038]   # Hall of Fame
+Name = Ingido Plateau
+MapPosition = 0,13,6
+Flags = DisableBoxLink
+#-------------------------------
+[039]   # Gimnasio Dun Moros
+Name = Gimnasio de Dun Moros
+Outdoor = true
+ShowArea = false
+MapPosition = 0,11,6
+BattleBack = indoor
+MapSize = 2,11
+#-------------------------------
+[040]   # Bosque Oscuro
+Name = Bosque oscuro
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,11,6
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[041]   # Villa Oscura
+Name = Villa Oscura
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,11,7
+BattleBack = forest
+MapSize = 1,111
+Environment = ForestGrass
+#-------------------------------
+[044]   # Gimnasio Villa Oscura
+Name = Gimnasio de Villa Oscura
+Outdoor = true
+ShowArea = false
+MapPosition = 0,11,10
+BattleBack = indoor
+MapSize = 2,11
+#-------------------------------
+[045]   # Garganta fogosa
+Name = Garganta fogosa
+Outdoor = true
+ShowArea = true
+BicycleAlways = false
+MapPosition = 0,11,10
+BattleBack = rocky
+Environment = Volcano
+#-------------------------------
+[046]   # Monte Piedra Negra
+Name = Monte Piedra Negra
+ShowArea = true
+Bicycle = false
+MapPosition = 0,12,6
+BattleBack = rocky
+Environment = Cave
+#-------------------------------
+[047]   # Conexión BRM-BRD
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]   # Profundidades Piedra Negra
+Name = Profundidades Piedra Negra
+ShowArea = true
+DarkMap = true
+BattleBack = rocky
+Environment = Volcano
+#-------------------------------
+[049]   # Centro Profundidades Piedra Negra
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[050]   # Cumbre Piedra Negra
+Name = Cumbre Piedra Negra
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = false
+BattleBack = rocky
+Environment = Rock
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[051]   # Tienda Cumbre Piedra Negra
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = false
+BattleBack = cave2
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[052]   # Gimnasio Cumbre Piedra Negra
+Name = Battle Frontier
+Outdoor = true
+ShowArea = false
+MapPosition = 0,17,10
+BattleBack = indoor
+#-------------------------------
+[053]   # Terraza de la cumbre
+Name = Cumbre Piedra Negra
+ShowArea = true
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+BattleBack = field
+Environment = Grass
+#-------------------------------
+[054]   # Centro Cumbre Piedra Negra
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[055]   # Pokémon Institute
+Name = Battle Frontier
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]   # Vega de Espina Torcida
+Name = Vega de Espina Torcida
+ShowArea = true
+MapPosition = 0,17,10
+BattleBack = forest
+Environment = ForestGrass
+Flags = DisableBoxLink
+#-------------------------------
+[057]   # Gul Zurub
+Name = Gul'Zurub
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+BattleBack = forest
+Environment = ForestGrass
+#-------------------------------
+[058]   # Arena Gurubashi
+Name = Arena Gurubashi
+ShowArea = true
+MapPosition = 0,17,10
+BattleBack = champion1
+Environment = None
+#-------------------------------
+[059]   # Bahía del Tesoro
+Name = Bahía del tesoro
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+BattleBack = field
+Flags = DisableBoxLink
+#-------------------------------
+[060]   # Centro Booty Bay
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[061]   # Tienda Booty Bay
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[062]
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[063]
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[064]
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[065]
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[066]
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]
+Name = Safari Zone
+MapPosition = 0,12,12
+#-------------------------------
+[068]
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]
+Name = Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]
+Name = Route 8
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]
+Name = Route 8
+MapPosition = 0,13,13
+#-------------------------------
+[072]
+Name = Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[073]
+Name = Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[074]
+Name = Route 6
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]
+Name = Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
