@@ -108,7 +108,7 @@ MapSize = 1,11
 #-------------------------------
 [022]   # Gimnasio Villa de oro
 Name = Gimnasio Villa de oro
-BattleBack = indoor
+BattleBack = indoor1
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -146,7 +146,7 @@ Name = Posada del león orgulloso
 ShowArea = true
 Bicycle = true
 MapPosition = 0,16,8
-BattleBack = indoor
+BattleBack = indoor1
 #-------------------------------
 [030]   # Loch Moras
 Name = Loch Moras
@@ -215,7 +215,7 @@ Name = Gimnasio de Dun Moros
 Outdoor = true
 ShowArea = false
 MapPosition = 0,11,6
-BattleBack = indoor
+BattleBack = indoor1
 MapSize = 2,11
 #-------------------------------
 [040]   # Bosque Oscuro
@@ -242,7 +242,7 @@ Name = Gimnasio de Villa Oscura
 Outdoor = true
 ShowArea = false
 MapPosition = 0,11,10
-BattleBack = indoor
+BattleBack = indoor1
 MapSize = 2,11
 #-------------------------------
 [045]   # Garganta fogosa
@@ -311,7 +311,7 @@ Name = Battle Frontier
 Outdoor = true
 ShowArea = false
 MapPosition = 0,17,10
-BattleBack = indoor
+BattleBack = indoor1
 #-------------------------------
 [053]   # Terraza de la cumbre
 Name = Cumbre Piedra Negra
@@ -371,22 +371,22 @@ MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[062]
+[062]   # Puerto de Bolarus
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[063]
+[063]   # Almacén
 Name = Battle Frontier
 MapPosition = 0,17,10
 Flags = DisableBoxLink
 #-------------------------------
-[064]
+[064]   # Cuartel de la marina
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[065]
+[065]   # Piso 2
 Name = Battle Frontier
 MapPosition = 0,17,10
 Flags = DisableBoxLink

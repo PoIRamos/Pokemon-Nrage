@@ -2306,7 +2306,7 @@ Description = Un dulce en forma de cinta. Cuando un Milcery lo lleva equipado, g
 Name = Venusaurita
 NamePlural = Venusauritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate.
 #-------------------------------
@@ -2314,7 +2314,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Venu
 Name = Charizardita X
 NamePlural = Charizarditas X
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.
 #-------------------------------
@@ -2322,7 +2322,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Char
 Name = Charizardita Y
 NamePlural = Charizarditas Y
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.
 #-------------------------------
@@ -2330,7 +2330,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Char
 Name = Blastoisita
 NamePlural = Blastoisitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate.
 #-------------------------------
@@ -2338,7 +2338,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Blas
 Name = Beedrillita
 NamePlural = Beedrillitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Beedrill en combate.
 #-------------------------------
@@ -2346,7 +2346,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Beed
 Name = Pidgeotita
 NamePlural = Pidgeotitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Pidgeot en combate.
 #-------------------------------
@@ -2354,7 +2354,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Pidg
 Name = Alakazamita
 NamePlural = Alakazamitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Alakazam en combate.
 #-------------------------------
@@ -2362,7 +2362,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Alak
 Name = Slowbronita
 NamePlural = Slowbronitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Slowbro en combate.
 #-------------------------------
@@ -2370,7 +2370,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Slow
 Name = Gengarita
 NamePlural = Gengaritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate.
 #-------------------------------
@@ -2378,7 +2378,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Geng
 Name = Kangaskhanita
 NamePlural = Kangaskhanitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Kangaskhan en combate.
 #-------------------------------
@@ -2386,7 +2386,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Kang
 Name = Pinsirita
 NamePlural = Pinsiritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Pinsir en combate.
 #-------------------------------
@@ -2394,7 +2394,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Pins
 Name = Gyaradosita
 NamePlural = Gyaradositas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyarados en combate.
 #-------------------------------
@@ -2402,7 +2402,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyar
 Name = Aerodactylita
 NamePlural = Aerodactylitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Aerodactyl en combate.
 #-------------------------------
@@ -2410,7 +2410,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Aero
 Name = Mewtwoita X
 NamePlural = Mewtwoitas X
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.
 #-------------------------------
@@ -2418,7 +2418,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewt
 Name = Mewtwoita Y
 NamePlural = Mewtwoitas Y
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.
 #-------------------------------
@@ -2426,7 +2426,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewt
 Name = Ampharosita
 NamePlural = Ampharositas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate.
 #-------------------------------
@@ -2434,7 +2434,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Amph
 Name = Steelixita
 NamePlural = Steelixitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Steelix en combate.
 #-------------------------------
@@ -2442,7 +2442,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Stee
 Name = Scizorita
 NamePlural = Scizoritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Scizor en combate.
 #-------------------------------
@@ -2450,7 +2450,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sciz
 Name = Heracrossita
 NamePlural = Heracrossitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Heracross en combate.
 #-------------------------------
@@ -2458,7 +2458,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Hera
 Name = Houndoomita
 NamePlural = Houndoomitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Houndoom en combate.
 #-------------------------------
@@ -2466,7 +2466,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Houn
 Name = Tyranitarita
 NamePlural = Tyranitaritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyranitar en combate.
 #-------------------------------
@@ -2474,7 +2474,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyra
 Name = Sceptilita
 NamePlural = Sceptilitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sceptile en combate.
 #-------------------------------
@@ -2482,7 +2482,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Scep
 Name = Blazikenita
 NamePlural = Blazikenitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaziken en combate.
 #-------------------------------
@@ -2490,7 +2490,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaz
 Name = Swampertita
 NamePlural = Swampertitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Swampert en combate.
 #-------------------------------
@@ -2498,7 +2498,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Swam
 Name = Gardevoirita
 NamePlural = Gardevoiritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate.
 #-------------------------------
@@ -2506,7 +2506,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gard
 Name = Sableynita
 NamePlural = Sableynitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sableye en combate.
 #-------------------------------
@@ -2514,7 +2514,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sabl
 Name = Mawilita
 NamePlural = Mawilitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawile en combate.
 #-------------------------------
@@ -2522,7 +2522,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawi
 Name = Aggronita
 NamePlural = Aggronitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggron en combate.
 #-------------------------------
@@ -2530,7 +2530,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggr
 Name = Medichamita
 NamePlural = Medichamitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Medicham en combate.
 #-------------------------------
@@ -2538,7 +2538,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Medi
 Name = Manectricita
 NamePlural = Manectricitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Manectric en combate.
 #-------------------------------
@@ -2546,7 +2546,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Mane
 Name = Sharpedonita
 NamePlural = Sharpedonitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sharpedo en combate.
 #-------------------------------
@@ -2554,7 +2554,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Shar
 Name = Cameruptita
 NamePlural = Cameruptitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Camerupt en combate.
 #-------------------------------
@@ -2562,7 +2562,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Came
 Name = Altarianita
 NamePlural = Altarianitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Altaria en combate.
 #-------------------------------
@@ -2570,7 +2570,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Alta
 Name = Banettita
 NamePlural = Banettitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Banette en combate.
 #-------------------------------
@@ -2578,7 +2578,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Bane
 Name = Absolita
 NamePlural = Absolitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Absol en combate.
 #-------------------------------
@@ -2586,7 +2586,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Abso
 Name = Glalita
 NamePlural = Glalitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Glalie en combate.
 #-------------------------------
@@ -2594,7 +2594,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Glal
 Name = Salamencita
 NamePlural = Salamencitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Salamence en combate.
 #-------------------------------
@@ -2602,7 +2602,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Sala
 Name = Metagrossita
 NamePlural = Metagrossitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Metagross en combate.
 #-------------------------------
@@ -2610,7 +2610,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Meta
 Name = Latiasita
 NamePlural = Latiasitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Mega Piedras. Dásela a Latias y esta piedra le permitirá Mega Evolucionar en batalla.
 #-------------------------------
@@ -2618,7 +2618,7 @@ Description = Una de las misteriosas Mega Piedras. Dásela a Latias y esta piedr
 Name = Latiosita
 NamePlural = Latiositas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Latios en combate.
 #-------------------------------
@@ -2626,7 +2626,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Lati
 Name = Lopunnita
 NamePlural = Lopunnitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Lopunny en combate.
 #-------------------------------
@@ -2634,7 +2634,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Lopu
 Name = Garchompita
 NamePlural = Garchompitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Garchomp en combate.
 #-------------------------------
@@ -2642,7 +2642,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Garc
 Name = Lucarita
 NamePlural = Lucaritas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Lucario en combate.
 #-------------------------------
@@ -2650,7 +2650,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Luca
 Name = Abomasnowita
 NamePlural = Abomasnowitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Abomasnow en combate.
 #-------------------------------
@@ -2658,7 +2658,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Abom
 Name = Galladita
 NamePlural = Galladitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gallade en combate.
 #-------------------------------
@@ -2666,7 +2666,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Gall
 Name = Audinita
 NamePlural = Audinitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Audino en combate.
 #-------------------------------
@@ -2674,7 +2674,7 @@ Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Audi
 Name = Diancita
 NamePlural = Diancitas
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = MegaStone,Fling_80
 Description = Una de las misteriosas Megapiedras. Permite megaevolucionar a Diancie en combate.
 #-------------------------------
