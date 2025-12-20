@@ -376,34 +376,34 @@ Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
 [063]   # Almacén
-Name = Battle Frontier
+Name = Almacén del puerto
 MapPosition = 0,17,10
 Flags = DisableBoxLink
 #-------------------------------
 [064]   # Cuartel de la marina
-Name = Battle Frontier
+Name = Cuartel de la marina
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
 [065]   # Piso 2
-Name = Battle Frontier
+Name = Cuartel de la marina
 MapPosition = 0,17,10
 Flags = DisableBoxLink
 #-------------------------------
-[066]
-Name = Safari Zone
+[066]   # Ciudad de Bolarus
+Name = Ciudad de Bolarus
 Outdoor = true
 ShowArea = true
 MapPosition = 0,12,12
 BattleBack = field
 #-------------------------------
-[067]
-Name = Safari Zone
+[067]   # Centro comercial. P1
+Name = Centro comercial
 MapPosition = 0,12,12
 #-------------------------------
-[068]
-Name = Safari Zone
+[068]   # Centro comercial P2
+Name = Centro comercial
 Outdoor = true
 ShowArea = true
 MapPosition = 0,12,12
@@ -411,26 +411,26 @@ SafariMap = true
 BattleBack = forest
 Environment = Forest
 #-------------------------------
-[069]
-Name = Route 8
+[069]   # Centro comercial P3
+Name = Centro comercial
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,13
 DiveMap = 70
 BattleBack = field
 #-------------------------------
-[070]
-Name = Route 8
+[070]   # Centro comercial P4
+Name = Centro comercial
 MapPosition = 0,13,13
 BattleBack = underwater
 Environment = Underwater
 #-------------------------------
-[071]
-Name = Route 8
+[071]   # Centro comercial P5
+Name = Centro comercial
 MapPosition = 0,13,13
 #-------------------------------
-[072]
-Name = Berth Island
+[072]   # Centro comercial azotea
+Name = Centro comercial
 Outdoor = true
 ShowArea = true
 Weather = Storm,50
@@ -438,16 +438,16 @@ MapPosition = 0,18,17
 BattleBack = field
 Flags = DistortionWorld
 #-------------------------------
-[073]
-Name = Faraday Island
+[073]   # Centro comercial ascensor
+Name = Centro comercial
 Outdoor = true
 ShowArea = true
 MapPosition = 0,22,16
 BattleBack = field
 Flags = DistortionWorld
 #-------------------------------
-[074]
-Name = Route 6
+[074]   # Casino Proudmoore
+Name = Casino Proudmoore
 Bicycle = true
 MapPosition = 0,12,10
 #-------------------------------

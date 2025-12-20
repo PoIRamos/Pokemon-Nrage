@@ -462,4 +462,20 @@ Pokemon = NINETALES,40
 Pokemon = GOLISOPOD,40
 Pokemon = LUCARIO,40
     Item = LUCARIONITE
+#==============================
+# CIUDAD DE BOLARUS
+#==============================
+[LEADER_Brock,Yakionigiri]
+LoseText = No he calculado la parábola.
+Pokemon = PELIPPER,50
+    AbilityIndex = 1
+Pokemon = DREDNAW,50
+Pokemon = SWAMPERT,51
+Pokemon = MILOTIC,51
+    Moves = CALMMIND,SURF,RECOVER,ICEBEAM
+    Item = LEFTOVERS
+#-------------------------------
+[CAMPER,Daniel]
+LoseText = ¡No podrás con Yaki!
+Pokemon = JELLICENT,49
 #-------------------------------
