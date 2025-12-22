@@ -35,8 +35,8 @@ ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[007]   # Cedolan City
-Name = Cedolan City
+[007]   # Valle del Fresno
+Name = Valle del Fresno
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,10
@@ -46,55 +46,55 @@ MapSize = 2,11
 Name = Lappet Town
 MapPosition = 0,13,12
 #-------------------------------
-[009]   # Cedolan City Poké Center
+[009]
 Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]   # Cedolan Gym
+[010]
 Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]   # Pokémon Institute
+[011]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[012]   # Cedolan City Condo
+[012]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[013]   # Game Corner
+[013]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[014]   # Cedolan Dept. 1F
+[014]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[015]   # Cedolan Dept. 2F
+[015]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[016]   # Cedolan Dept. 3F
+[016]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[017]   # Cedolan Dept. 4F
+[017]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[018]   # Cedolan Dept. 5F
+[018]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[019]   # Cedolan Dept. Rooftop
+[019]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[020]   # Cedolan Dept. Elevator
+[020]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
@@ -372,7 +372,9 @@ BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
 [062]   # Puerto de Bolarus
-Name = Battle Frontier
+Name = Puerto de Bolarus
+Outdoor = true
+ShowArea = true
 MapPosition = 0,17,10
 #-------------------------------
 [063]   # Almacén
@@ -451,8 +453,13 @@ Name = Casino Proudmoore
 Bicycle = true
 MapPosition = 0,12,10
 #-------------------------------
-[075]
+[075]   # Tienda Bolarus
 Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[079]   # Costa Oscurecida
+Name = Costa Oscurecida
+Outdoor = true
+ShowArea = true

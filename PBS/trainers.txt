@@ -488,3 +488,26 @@ Pokemon = TOXICROAK,55
 Pokemon = TOXAPEX,55
 Pokemon = SALAZZLE,55
 Pokemon = DRAPION,57
+#==============================
+# VALLE DEL FRESNO
+#==============================
+[ORCO,Ormog]
+LoseText = ¡Por la Horda!
+Pokemon = DARMANITAN,56
+Pokemon = HIPPOWDON,56
+#-------------------------------
+[ORCO,Bruk]
+LoseText = ¡Por la Horda!
+Pokemon = COALOSSAL,56
+Pokemon = CENTISKORCH,56
+#-------------------------------
+[ORCO,Garl]
+LoseText = ¡Por la Horda!
+Pokemon = CRAWDAUNT,56
+Pokemon = DONPHAN,56
+#-------------------------------
+[ORCO,Loruk]
+LoseText = ¡Por la Horda!
+Pokemon = EXCADRILL,56
+Pokemon = GOLISOPOD,56
+#-------------------------------

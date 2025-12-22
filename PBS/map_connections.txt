@@ -24,3 +24,5 @@
 50,East,0,53,West,0
 # Arena Gurubashi (58) - Vega de Espina Torcida (56)
 58,East,0,56,West,27
+# Costa Oscurecida (79) - Valle del Fresno (7)
+79,South,17,7,North,0

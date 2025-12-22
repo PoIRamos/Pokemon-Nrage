@@ -491,3 +491,9 @@ Gender = Male
 BaseMoney = 32
 IntroBGM = Trainers Eyes Meet
 #-------------------------------
+[ORCO]
+Name = Orco
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------
