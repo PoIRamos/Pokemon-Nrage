@@ -478,4 +478,13 @@ Pokemon = MILOTIC,51
 [CAMPER,Daniel]
 LoseText = ¡No podrás con Yaki!
 Pokemon = JELLICENT,49
-#-------------------------------
+#==============================
+# COSTA OSCURECIDA
+#==============================
+[ROCKETBOSS,Denora,1]
+LoseText = Saludos a tu madre.
+Pokemon = CROBAT,55
+Pokemon = TOXICROAK,55
+Pokemon = TOXAPEX,55
+Pokemon = SALAZZLE,55
+Pokemon = DRAPION,57

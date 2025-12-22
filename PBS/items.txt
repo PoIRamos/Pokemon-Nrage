@@ -4684,6 +4684,16 @@ Flags = Fling_90
 Move = ROCKCLIMB
 Description = Ataca con una gran embestida. Puede confundir al objetivo.
 #-------------------------------
+[TM102]
+Name = MT102
+NamePlural = MT102
+Pocket = 4
+Price = 2000
+FieldUse = TR
+Flags = Fling_90
+Move = MOONBLAST
+Description = Invoca el poder de la luna para atacar al objetivo. Puede disminuir el Ataque Especial del objetivo.
+#-------------------------------
 [TM101]
 Name = MT101
 NamePlural = MT101

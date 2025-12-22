@@ -128,7 +128,25 @@ Water,20
     33,BASCULIN,34,35
     33,SHARPEDO,34,35
     33,WAILMER,33,35
-
+#-------------------------------
+[062] # Puerto de Bolarus
+Water,20
+    100,HORSEA,10,14
+#-------------------------------
+[066] # Ciudad de Bolarus
+Water,20
+    100,HORSEA,10,14
+#-------------------------------
+[079] # Costa Oscurecida
+Land,21
+    20,ABSOL,50,52
+    20,DODRIO,50,52
+    20,URSARING,50,52
+    20,TREVENANT,50,52
+    10,MEGANIUM,50,52
+    10,DECIDUEYE,50,52
+Water,2
+    100,SHARPEDO,50,52
 
 [031] # Route 3
 Land,21
