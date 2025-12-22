@@ -190,93 +190,93 @@ Pokemon = AERODACTYL,42
 [GEDDON,Geddon]
 Pokemon = EMBOAR,42
 #-------------------------------
-[HIKER,Bjorn]
+[ENANO,Bjorn]
 LoseText = Mochila mochila.
 Pokemon = LAIRON,35
 Pokemon = RHYDON,35
 #-------------------------------
-[HIKER,Magnis]
+[ENANO,Magnis]
 LoseText = Ya me aparto.
 Pokemon = POLIWRATH,36
 #-------------------------------
-[HIKER,Turin]
+[ENANO,Turin]
 LoseText = El suelo está calentito.
 Pokemon = GOLEM,35
 Pokemon = GASTRODON,35
 #-------------------------------
-[HIKER,Sven]
+[ENANO,Sven]
 LoseText = Hay que saber subir y bajar.
 Pokemon = SANDSLASH,36
 #-------------------------------
-[HIKER,Karl]
+[ENANO,Karl]
 LoseText = Y voló.
 Pokemon = EXCADRILL,37
 #-------------------------------
-[HIKER,Phil]
+[ENANO,Phil]
 LoseText = Y yo volé de él.
 Pokemon = SCRAFTY,37
 #===============================
 # Profundidades Piedra Negra
 #===============================
-[HIKER,Seb]
+[ENANO,Seb]
 LoseText = Si es que no veo un carajo.
 Pokemon = DUGTRIO,36
 Pokemon = RAPIDASH,37
 #-------------------------------
-[HIKER,Pew]
+[ENANO,Pew]
 LoseText = Es que me he dejado.
 Pokemon = HITMONLEE,36
 Pokemon = HITMONCHAN,37
 #-------------------------------
-[HIKER,Ron]
+[ENANO,Ron]
 LoseText = Se me ha olvidado tirar la poti.
 Pokemon = QUAGSIRE,36
 Pokemon = TAUROS,37
 #-------------------------------
-[HIKER,Alex]
+[ENANO,Alex]
 LoseText = ¡Buena pelea!
 Pokemon = HOUNDOOM,39
 #-------------------------------
-[HIKER,Braum]
+[ENANO,Braum]
 LoseText = Esto es vida, ¿no?
 Pokemon = BEARTIC,39
 #-------------------------------
-[HIKER,Zork]
+[ENANO,Zork]
 LoseText = Voy dando palos de ciego.
 Pokemon = NOSEPASS,37
 Pokemon = BRELOOM,37
 #-------------------------------
-[HIKER,Muriel]
+[ENANO,Muriel]
 LoseText = Me he distraído.
 Pokemon = MACHOKE,37
 Pokemon = WHISCASH,37
 #-------------------------------
-[HIKER,Tan]
+[ENANO,Tan]
 LoseText = No esperaba perder.
 Pokemon = CRAWDAUNT,38
 Pokemon = GYARADOS,38
 #-------------------------------
-[HIKER,Santi]
+[ENANO,Santi]
 LoseText = Menuda pedrada.
 Pokemon = ARMALDO,38
 Pokemon = BASTIODON,38
 #-------------------------------
-[HIKER,Jason]
+[ENANO,Jason]
 LoseText = No ha sonado la campana.
 Pokemon = CARNIVINE,38
 Pokemon = BRONZONG,38
 #-------------------------------
-[HIKER,Iñaki]
+[ENANO,Iñaki]
 LoseText = Aiba la ostia.
 Pokemon = GIGALITH,38
 Pokemon = SCOLIPEDE,38
 #-------------------------------
-[HIKER,Olaf]
+[ENANO,Olaf]
 LoseText = Me dejas helado.
 Pokemon = AVALUGG,38
 Pokemon = AURORUS,38
 #-------------------------------
-[HIKER,Burtro]
+[ENANO,Burtro]
 LoseText = Vaya castaña de dragón.
 Pokemon = DRUDDIGON,39
 #===============================
