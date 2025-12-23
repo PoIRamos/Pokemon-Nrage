@@ -28,6 +28,7 @@ Pokemon = MAMOSWINE,100
 Pokemon = LAPRAS,100
 Pokemon = GLACEON,100
 Pokemon = SINDRAGOSA,100
+    Moves = OBLITERATE,DRAGONASCENT,OUTRAGE,EARTHQUAKE
 #-------------------------------    
 #==============================
 # BOSQUE DE ELBUIN
@@ -282,7 +283,7 @@ Pokemon = DRUDDIGON,39
 #===============================
 # CUMBRE PIEDRA NEGRA
 #===============================
-[LEADER_Surge,Ginzu]
+[LEADER_Ginzu,Ginzu]
 LoseText = Definitivamente la roca no es infalible. La próxima vez elegiré tijeras.
 Pokemon = GIGALITH,41
 Pokemon = GOLEM,40
@@ -510,4 +511,48 @@ Pokemon = DONPHAN,56
 LoseText = ¡Por la Horda!
 Pokemon = EXCADRILL,56
 Pokemon = GOLISOPOD,56
+#==============================
+# PASO DE FRONDAVIL
+#==============================
+[ORCO,Khandur]
+LoseText = ¡Por la Horda!
+Pokemon = OBSTAGOON,56
+Pokemon = PIDGEOT,56
+#-------------------------------
+[ORCO,Gormog]
+LoseText = ¡Por la Horda!
+Pokemon = PANGORO,56
+Pokemon = PROBOPASS,56
+#-------------------------------
+[ORCO,Turu]
+LoseText = ¡Por la Horda!
+Pokemon = BLAZIKEN,58
+#-------------------------------
+[ORCO,Brux]
+LoseText = ¡Por la Horda!
+Pokemon = SCRAFTY,56
+Pokemon = SEISMITOAD,56
+#-------------------------------
+[ORCO,Barnok]
+LoseText = ¡Por la Horda!
+Pokemon = SHUCKLE,56
+Pokemon = TANGROWTH,56
+#==============================
+# CLARO LUNAR
+#==============================
+[CAMPER,Esneisi]
+LoseText = ¡No podrás con Entseeker!
+Pokemon = MEGANIUM,64
+#-------------------------------
+[LEADER_Entseeker,Entseeker]
+Items = MEGARING
+LoseText = Eres realmente bueno.
+Pokemon = FERROTHORN,64
+    Moves = POWERWHIP,TOXICSPIKES,GYROBALL,STEALTHROCK
+Pokemon = RILLABOOM,65
+Pokemon = LILLIGANT,65
+Pokemon = ROSERADE,65
+Pokemon = SCEPTILE,66
+    Moves = ENERGYBALL,DRAGONPULSE,PROTECT,SLUDGEWAVE
+    Item = SCEPTILITE
 #-------------------------------

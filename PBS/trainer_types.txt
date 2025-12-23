@@ -366,7 +366,7 @@ IntroBGM = Trainers Eyes Meet
 Name = Jefe del Team Rata
 Gender = Male
 BaseMoney = 1000
-IntroBGM = Trainers Eyes Meet
+BattleBGM = Battle rival
 #-------------------------------
 [LEADER_Brock]
 Name = Líder de Gimnasio
@@ -496,4 +496,18 @@ Name = Orco
 Gender = Male
 BaseMoney = 32
 IntroBGM = Trainers Eyes Meet
+#-------------------------------
+[LEADER_Ginzu]
+Name = Líder de Gimnasio
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Entseeker]
+Name = Líder de Gimnasio
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
 #-------------------------------

@@ -143,10 +143,29 @@ Land,21
     20,DODRIO,50,52
     20,URSARING,50,52
     20,TREVENANT,50,52
-    10,MEGANIUM,50,52
+    10,CORVIKNIGHT,50,52
     10,DECIDUEYE,50,52
 Water,2
     100,SHARPEDO,50,52
+    #-------------------------------
+[007] # Valle del fresno
+Land,21
+    20,LILLIGANT,52,54
+    20,ALAKAZAM,52,54
+    20,LUDICOLO,52,54
+    20,CORSOLA,52,54
+    20,MAWILE,52,54
+Water,2
+    100,GYARADOS,50,52
+#-------------------------------
+[009] # Paso de Frondavil
+Cave,4
+    40,VIKAVOLT,52,54
+    30,EXCADRILL,52,54
+    20,WEAVILE,52,54
+    10,TORTERRA,52,54
+
+
 
 [031] # Route 3
 Land,21

@@ -4704,6 +4704,16 @@ Flags = Fling_90
 Move = SUCKERPUNCH
 Description = Permite atacar primero. Falla si el objetivo no está preparando ningún ataque.
 #-------------------------------
+[TM103]
+Name = MT103
+NamePlural = MT103
+Pocket = 4
+Price = 2000
+FieldUse = TR
+Flags = Fling_90
+Move = ENERGYBALL
+Description = Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Def. Esp. del objetivo.
+#-------------------------------
 [HM01]
 Name = MO01
 NamePlural = MO01
@@ -6182,4 +6192,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = El ojo del Loa de sangre. Aunque está muerto parece que te sigue la mirada.
+#-------------------------------
+[INSIGNIA_HORDA]
+Name = Insignia de la Horda
+NamePlural = Insignias de la Horda
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Insignia que muestra tu lealtad a la Horda.
 #-------------------------------
