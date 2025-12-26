@@ -164,7 +164,59 @@ Cave,4
     30,EXCADRILL,52,54
     20,WEAVILE,52,54
     10,TORTERRA,52,54
-
+#-------------------------------
+[010] # Claro Lunar
+Water,20
+    100,POPPLIO,10,14
+#-------------------------------
+[014] # Los Baldíos
+Land,21
+    20,NIDOQUEEN,68,70
+    20,DRAPION,68,70
+    20,ZEBSTRIKA,68,70
+    15,NIDOKING,68,70
+    5,TYRANITAR,68,70
+Water,2
+    50,GYARADOS,68,70
+    50,CARRACOSTA,68,70
+#-------------------------------
+[017] # Las Cien Agujas
+Land,21
+    20,ARBOK,69,71
+    20,ARMALDO,69,71
+    20,BRAVIARY,69,71
+    20,ESCAVALIER,69,71
+    20,RHYDON,69,71
+Water,2
+    50,DREDNAW,68,70
+#-------------------------------
+[018] # Taranis
+Land,21
+    20,CLAYDOL,69,71
+    20,AEGISLASH,69,71
+    20,COFAGRIGUS,69,71
+    20,CRUSTLE,69,71
+    20,FLYGON,69,71
+Water,2
+    50,LAPRAS,68,70
+#-------------------------------
+[019] # Cráter de Gun'oro
+Land,21
+    20,TYRANTRUM,71,73
+    20,VENUSAUR,71,73
+    20,AGGRON,71,73
+    20,CAMERUPT,71,73
+    20,AERODACTYL,71,73
+#-------------------------------
+[020] # Felaras
+Land,21
+    20,GRIMMSNARL,72,73
+    20,AURORUS,72,73
+    20,CHESNAUGHT,72,73
+    20,GARDEVOIR,72,73
+    20,ALTARIA,72,73
+Water,2
+    50,KINGDRA,71,73
 
 
 [031] # Route 3

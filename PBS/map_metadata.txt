@@ -80,33 +80,53 @@ Name = Gimnasio Claro Lunar
 MapPosition = 0,14,10
 BattleBack = indoor1
 #-------------------------------
-[014]
+[014]   # Los Baldíos
+Name = Los Baldíos
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+BattleBack = field
+#-------------------------------
+[015]   # Centro Los Baldíos
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[015]
+[016]   # Tienda Los Baldíos
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[016]
-Name = Cedolan City
+[017]   # Las Cien Agujas
+Name = Las Cien Agujas
+Outdoor = true
+ShowArea = true
 MapPosition = 0,13,10
+BattleBack = rocky
+Environment = Rock
 #-------------------------------
-[017]
-Name = Cedolan City
+[018]   # Taranis
+Name = Taranis
+Outdoor = true
+ShowArea = true
+Weather = Sun,100
 MapPosition = 0,13,10
+BattleBack = sand
+Environment = Sand
 #-------------------------------
-[018]
-Name = Cedolan City
+[019]   # Cráter de Gun'oro
+Name = Cráter de Gun'oro
+Outdoor = true
+ShowArea = true
 MapPosition = 0,13,10
+BattleBack = forest
+Environment = Forest
 #-------------------------------
-[019]
-Name = Cedolan City
+[020]   # Felaras
+Name = Felaras
+Outdoor = true
+ShowArea = true
 MapPosition = 0,13,10
-#-------------------------------
-[020]
-Name = Cedolan City
-MapPosition = 0,13,10
+BattleBack = forest
+Environment = Forest
 #-------------------------------
 [021]   # Centro pokemon Villa de oro
 Name = Centro pokemon
@@ -185,6 +205,7 @@ Flags = IceRock
 #-------------------------------
 [033]   # Dun Moros
 Name = Dun Moros
+Outdoor = true
 ShowArea = true
 Weather = Snow,100
 BattleBack = snow
@@ -335,7 +356,7 @@ Environment = Grass
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[055]   # Pokémon Institute
+[055]   # Instituto de fósiles
 Name = Battle Frontier
 HealingSpot = 52,30,10
 MapPosition = 0,17,10
@@ -479,3 +500,7 @@ Outdoor = true
 ShowArea = true
 BattleBack = forest
 Environment = ForestGrass
+#-------------------------------
+[083]   # Gimnasio Felaras
+Name = Gimnasio Felaras
+BattleBack = indoor1

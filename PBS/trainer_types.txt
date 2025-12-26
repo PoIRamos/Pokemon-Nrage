@@ -511,3 +511,21 @@ BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
+[HUMANO]
+Name = Soldado humano
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------
+[MARINE]
+Name = Marine
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------
+[OGRO]
+Name = Ogro
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------

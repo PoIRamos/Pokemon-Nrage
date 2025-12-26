@@ -4714,6 +4714,16 @@ Flags = Fling_90
 Move = ENERGYBALL
 Description = Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Def. Esp. del objetivo.
 #-------------------------------
+[TM104]
+Name = MT104
+NamePlural = MT104
+Pocket = 4
+Price = 2000
+FieldUse = TR
+Flags = Fling_90
+Move = PLAYROUGH
+Description = El Pokémon que lo usa le hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo.
+#-------------------------------
 [HM01]
 Name = MO01
 NamePlural = MO01
@@ -6200,4 +6210,36 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Insignia que muestra tu lealtad a la Horda.
+#-------------------------------
+[COSECHA_BARRENS]
+Name = Cosecha de Los Baldíos
+NamePlural = Cosecha de Los Baldíos
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Necesaria para alimentar a los ejércitos de la Horda.
+#-------------------------------
+[ESPORAS_HONGOS]
+Name = Esporas de hongos
+NamePlural = Esporas de hongos
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Esporas que hacen florecer los oasis de Los Baldíos.
+#-------------------------------
+[COLLAR_OBSIDIANA]
+Name = Collar obsidiana
+NamePlural = Collar obsidiana
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un collar obsidiana destrozado.
+#-------------------------------
+[AMULETO_PIRODRACO]
+Name = Amuleto pirodraco
+NamePlural = Amuleto pirodraco
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Collar forjado en el volcán de Gun'oro, desprende magia dracónica.
 #-------------------------------

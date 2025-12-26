@@ -23,6 +23,7 @@ Pokemon = ONIX,14
 [CHAMPION,Sistine,1]
 LoseText = Buen combate.
 Pokemon = NINETALES_ALOLA,100
+    Item = LIGHTCLAY
 Pokemon = ARTICUNO,100
 Pokemon = MAMOSWINE,100
 Pokemon = LAPRAS,100
@@ -555,4 +556,157 @@ Pokemon = ROSERADE,65
 Pokemon = SCEPTILE,66
     Moves = ENERGYBALL,DRAGONPULSE,PROTECT,SLUDGEWAVE
     Item = SCEPTILITE
+#==============================
+# LOS BALDÍOS
+#==============================
+[HUMANO,Aiur]
+LoseText = ¡Por la Alianza!
+Pokemon = BISHARP,68
+Pokemon = AMPHAROS,68
 #-------------------------------
+[HUMANO,Mason]
+LoseText = ¡Por la Alianza!
+Pokemon = BASTIODON,68
+Pokemon = ARCHEOPS,68
+#-------------------------------
+[HUMANO,Ian]
+LoseText = ¡Por la Alianza!
+Pokemon = BOUFFALANT,70
+#-------------------------------
+[HUMANO,Sven]
+LoseText = ¡Por la Alianza!
+Pokemon = CINDERACE,68
+Pokemon = DRIFBLIM,68
+#-------------------------------
+[HUMANO,Brandon]
+LoseText = ¡Por la Alianza!
+Pokemon = GALLADE,70
+#-------------------------------
+[ENANO,Kervin]
+LoseText = ¡Por la Alianza!
+Pokemon = GOGOAT,68
+Pokemon = GOLURK,68
+#-------------------------------
+[ENANO,Magnan]
+LoseText = ¡Por la Alianza!
+Pokemon = GOODRA,70
+#-------------------------------
+[ENANO,Turadin]
+LoseText = ¡Por la Alianza!
+Pokemon = HAWLUCHA,68
+Pokemon = MAGCARGO,68
+#-------------------------------
+[ENANO,Larsan]
+LoseText = ¡Por la Alianza!
+Pokemon = MANDIBUZZ,68
+Pokemon = MUDSDALE,68
+#-------------------------------
+[ENANO,Gamelin]
+LoseText = ¡Por la Alianza!
+Pokemon = TYRANTRUM,70
+#==============================
+# TARANIS
+#==============================
+[GURUBASHI,Valkan]
+LoseText = ¡Taz dingo!
+Pokemon = INFERNAPE,71
+Pokemon = SALAZZLE,71
+#-------------------------------
+[GURUBASHI,Nerajin]
+LoseText = ¡Taz dingo!
+Pokemon = SCIZOR,71
+Pokemon = SERPERIOR,71
+#-------------------------------
+[GURUBASHI,Tuun]
+LoseText = ¡Taz dingo!
+Pokemon = SIGILYPH,71
+Pokemon = SOLROCK,71
+#-------------------------------
+[SAILOR,Edvin]
+LoseText = ¡Me han robado!
+Pokemon = SWANNA,71
+Pokemon = TROPIUS,71
+#-------------------------------
+[SAILOR,Samu]
+LoseText = Pues navegas mejor que yo.
+Pokemon = XATU,71
+Pokemon = VAPOREON,71
+#-------------------------------
+[SAILOR,Tez]
+LoseText = Has tenido suerte.
+Pokemon = AEGISLASH,71
+Pokemon = CLAWITZER,71
+#==============================
+# FELARAS
+#==============================
+[OGRO,Mork]
+LoseText = ¡Tú aplastar!
+Pokemon = BANETTE,73
+Pokemon = BEARTIC,73
+#-------------------------------
+[OGRO,Talmun]
+LoseText = ¡Tú aplastar!
+Pokemon = CACTURNE,73
+Pokemon = CHESNAUGHT,73
+#-------------------------------
+[OGRO,Lurt]
+LoseText = ¡Tú aplastar!
+Pokemon = CONKELDURR,75
+#-------------------------------
+[OGRO,Vun]
+LoseText = ¡Tú aplastar!
+Pokemon = CRABOMINABLE,73
+Pokemon = DARMANITAN,73
+#-------------------------------
+[OGRO,Ruk]
+LoseText = ¡Tú aplastar!
+Pokemon = DONPHAN,73
+Pokemon = DRAMPA,73
+#-------------------------------
+[OGRO,Bert]
+LoseText = ¡Tú aplastar!
+Pokemon = DRUDDIGON,73
+Pokemon = DUSKNOIR,73
+#-------------------------------
+[OGRO,Mok]
+LoseText = ¡Tú aplastar!
+Pokemon = ESPEON,73
+Pokemon = EMBOAR,73
+#-------------------------------
+[OGRO,Garan]
+LoseText = ¡Tú aplastar!
+Pokemon = FERROTHORN,73
+Pokemon = FLAREON,73
+#-------------------------------
+[OGRO,Rox]
+LoseText = ¡Tú aplastar!
+Pokemon = UMBREON,73
+Pokemon = GARBODOR,73
+#-------------------------------
+[OGRO,Burt]
+LoseText = ¡Tú aplastar!
+Pokemon = GOLEM,73
+Pokemon = GOODRA,73
+#-------------------------------
+[OGRO,Surt]
+LoseText = ¡Tú aplastar!
+Pokemon = HAXORUS,75
+#-------------------------------
+[OGRO,Trex]
+LoseText = ¡Tú aplastar!
+Pokemon = HYDREIGON,75
+#-------------------------------
+[CAMPER,Brayan]
+LoseText = ¡No podrás con Keena!
+Pokemon = AROMATISSE,75
+#-------------------------------
+[LEADER_Brock,Keena,1]
+Items = MEGARING
+LoseText = Esta vez tenías razón.
+Pokemon = TOGEKISS,76
+Pokemon = SYLVEON,76
+Pokemon = GRIMMSNARL,76
+Pokemon = PRIMARINA,77
+Pokemon = GARDEVOIR,77
+    Moves = PSYCHIC,MOONBLAST,CALMMIND,SHADOWBALL
+    Item = GARDEVOIRITE

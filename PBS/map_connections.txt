@@ -12,6 +12,10 @@
 6,West,0,30,East,63
 # Bosque Oscuro (40) - Villa de oro (6)
 40,North,0,6,South,0
+# Valle del Fresno (7) - Los Baldíos (14)
+7,South,0,14,North,4
+# Las Cien Agujas (17) - Los Baldíos (14)
+17,North,0,14,South,26
 # Loch Moras (30) - Dun Moros (33)
 30,North,0,33,South,30
 # Bosque Oscuro (40) - Loch Moras (30)
@@ -24,5 +28,5 @@
 50,East,0,53,West,0
 # Arena Gurubashi (58) - Vega de Espina Torcida (56)
 58,East,0,56,West,27
-# Costa Oscurecida (79) - Valle del Fresno (7)
-79,South,17,7,North,0
+# Cráter de Gun'oro (19) - Taranis (18)
+19,East,0,18,West,13
