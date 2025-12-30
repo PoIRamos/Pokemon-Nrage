@@ -23064,7 +23064,7 @@ EggGroups = Undiscovered
 HatchSteps = 30720
 Height = 5.0
 Weight = 325.0
-Color = Gray
+Color = Red
 Shape = Serpentine
 Category = Frontera
 Pokedex = Loa de sangre, adorado por los trolls Gurubashi.
@@ -23140,3 +23140,48 @@ Habitat = Mountain
 Category = Hibernante
 Pokedex = El jefe de los gnolls, siembra el terror en el Bosque de Elbuin.
 Generation = 3
+#-------------------------------
+[ONYXIA]
+Name = Onyxia
+Types = FIRE,DRAGON
+BaseStats = 280,100,280,90,110,280
+GenderRatio = AlwaysFemale
+GrowthRate = Slow
+BaseExp = 330
+EVs = HP,1,ATTACK,1,SPECIAL_ATTACK,1
+CatchRate = 3
+Happiness = 0
+Abilities = FILTER
+Moves = 1,DRAGONPULSE,1,FIREBLAST,1,EARTHPOWER,1,AIRSLASH
+EggGroups = Undiscovered
+HatchSteps = 30720
+Height = 5.0
+Weight = 325.0
+Color = Purple
+Shape = Quadruped
+Category = Frontera
+Pokedex = La madre de la prole del vuelo negro.
+Generation = 3
+#-------------------------------
+[WHELP]
+Name = Cría negra
+Types = DRAGON
+BaseStats = 80,80,80,80,80,80
+GenderRatio = Female50Percent
+GrowthRate = Slow
+BaseExp = 330
+EVs = HP,1,ATTACK,1,SPECIAL_ATTACK,1
+CatchRate = 3
+Happiness = 0
+Abilities = FILTER
+Moves = 1,DRAGONCLAW,1,FIREFANG
+EggGroups = Undiscovered
+HatchSteps = 30720
+Height = 5.0
+Weight = 325.0
+Color = Purple
+Shape = Quadruped
+Category = Frontera
+Pokedex = Cría de Onyxia.
+Generation = 3
+#-------------------------------

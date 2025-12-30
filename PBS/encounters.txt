@@ -217,6 +217,16 @@ Land,21
     20,ALTARIA,72,73
 Water,2
     50,KINGDRA,71,73
+#-------------------------------
+[084] # Rudotar
+Land,21
+    20,ARCANINE,75,76
+    20,SCIZOR,75,76
+    20,CENTISKORCH,75,76
+    20,ELECTIVIRE,75,76
+    20,GLISCOR,75,76
+Water,2
+    50,OMASTAR,75,76
 
 
 [031] # Route 3

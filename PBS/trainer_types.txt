@@ -529,3 +529,20 @@ Gender = Male
 BaseMoney = 32
 IntroBGM = Trainers Eyes Meet
 #-------------------------------
+[ONYXIA]
+Name = Matriarca del Vuelo Negro
+BaseMoney = 100
+#-------------------------------
+[LEADER_Thrall]
+Name = Líder
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELFO]
+Name = Elfo
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------

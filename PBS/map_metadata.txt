@@ -504,3 +504,42 @@ Environment = ForestGrass
 [083]   # Gimnasio Felaras
 Name = Gimnasio Felaras
 BattleBack = indoor1
+#-------------------------------
+[084]   # Rudotar
+Name = Rudotar
+Outdoor = true
+ShowArea = true
+BattleBack = field
+#-------------------------------
+[085]   # Polgrimmar
+Name = Polgrimmar
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[089]   # Guarida de Onyxia
+Name = Guarida de Onyxia
+Outdoor = false
+ShowArea = true
+BattleBack = rocky
+Environment = Cave
+#-------------------------------
+[090]   # Guarida de Onyxia S2
+Name = Guarida de Onyxia
+Outdoor = false
+ShowArea = true
+BattleBack = rocky
+Environment = Cave
+#-------------------------------
+[091]   # Guarida de Onyxia S3
+Name = Guarida de Onyxia
+Outdoor = false
+ShowArea = true
+BattleBack = rocky
+Environment = Cave
+#-------------------------------
+[092]   # Sala del jefe
+Name = Guarida de Onyxia
+Outdoor = false
+ShowArea = false
+BattleBack = rocky
+Environment = Cave

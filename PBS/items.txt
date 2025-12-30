@@ -735,7 +735,7 @@ Description = Si el portador es alcanzado por un ataque físico, el agresor tamb
 Name = Chaleco Asalto
 NamePlural = Chalecos Asalto
 Pocket = 1
-Price = 1000
+Price = 100000
 Flags = Fling_80
 Description = Chaleco que potencia la Def. Esp. del Pokémon que lo lleva, pero le impide lanzar ataques de estado.
 #-------------------------------
@@ -864,7 +864,7 @@ Description = Si lo lleva el primer Pokémon del equipo, se reduce la probabilid
 Name = Cinta Elegida
 NamePlural = Cintas Elegidas
 Pocket = 1
-Price = 4000
+Price = 100000
 Flags = Fling_10
 Description = Aumenta el Ataque pero solo permite usar un tipo de movimiento. Debe llevarla un Pokémon.
 #-------------------------------
@@ -872,7 +872,7 @@ Description = Aumenta el Ataque pero solo permite usar un tipo de movimiento. De
 Name = Gafas Elegidas
 NamePlural = Gafas Elegidas
 Pocket = 1
-Price = 4000
+Price = 100000
 Flags = Fling_10
 Description = Potencian el At. Esp. pero solo permiten usar un tipo de movimiento. Debe llevarlas un Pokémon.
 #-------------------------------
@@ -880,7 +880,7 @@ Description = Potencian el At. Esp. pero solo permiten usar un tipo de movimient
 Name = Pañuelo Elegido
 NamePlural = Pañuelos Elegidos
 Pocket = 1
-Price = 4000
+Price = 100000
 Flags = Fling_10
 Description = Debe llevarlo un Pokémon. Potencia la Velocidad, pero solo permite usar un tipo de movimiento.
 #-------------------------------
@@ -1234,7 +1234,7 @@ Description = El Pokémon que la lleve puede resistir un golpe potencialmente cr
 Name = Banda Aguante
 NamePlural = Bandas Aguante
 Pocket = 1
-Price = 3000
+Price = 100000
 SellPrice = 2000
 Flags = Fling_10
 Description = Si el Pokémon que la lleva tiene los PS al máximo, resistirá un golpe que potencialmente lo deja KO con 1 PS.
@@ -1243,7 +1243,7 @@ Description = Si el Pokémon que la lleva tiene los PS al máximo, resistirá un
 Name = Llamasfera
 NamePlural = Llamasferas
 Pocket = 1
-Price = 4000
+Price = 50000
 Flags = Fling_30
 Description = Extraña esfera que causa quemaduras a quien la usa en combate. Debe llevarla un Pokémon.
 #-------------------------------
@@ -1251,7 +1251,7 @@ Description = Extraña esfera que causa quemaduras a quien la usa en combate. De
 Name = Toxisfera
 NamePlural = Toxisferas
 Pocket = 1
-Price = 4000
+Price = 50000
 Flags = Fling_30
 Description = Extraña esfera que envenena gravemente a quien la usa en combate. Debe llevarla un Pokémon.
 #-------------------------------
@@ -4724,6 +4724,16 @@ Flags = Fling_90
 Move = PLAYROUGH
 Description = El Pokémon que lo usa le hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo.
 #-------------------------------
+[TM105]
+Name = MT105
+NamePlural = MT105
+Pocket = 4
+Price = 2000
+FieldUse = TR
+Flags = Fling_90
+Move = CLOSECOMBAT
+Description = Lucha abiertamente contra el rival sin defenderse. También reduce la Defensa y la Def. Esp. del usuario.
+#-------------------------------
 [HM01]
 Name = MO01
 NamePlural = MO01
@@ -4871,7 +4881,7 @@ Description = Los Pokémon pueden llevarla o usarla para recuperarse de problema
 Name = Baya Zidra
 NamePlural = Bayas Zidra
 Pocket = 5
-Price = 20
+Price = 10000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80
@@ -6242,4 +6252,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Collar forjado en el volcán de Gun'oro, desprende magia dracónica.
+#-------------------------------
+[CABEZA_ONYXIA]
+Name = Cabeza de Onyxia
+NamePlural = Cabeza de Onyxia
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Cabeza de la madre de la prole. Quizás le interese al señor supremo Colmilloturbo.
 #-------------------------------

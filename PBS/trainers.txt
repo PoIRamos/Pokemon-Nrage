@@ -117,7 +117,7 @@ Pokemon = GURDURR,22
     Moves = LOWKICK,BULKUP,ROCKSLIDE,BRICKBREAK
     Item = FISTPLATE
 #-------------------------------
-[CAMPER,Sebastián]
+[ENANO,Sebastián]
 LoseText = ¡No podrás con Copyninja!
 Pokemon = MAKUHITA,19
 #==============================
@@ -293,7 +293,7 @@ Pokemon = TYRANTRUM,42
     Moves = ROCKSLIDE,CRUNCH,FIREFANG,ZENHEADBUTT
     Item = FOCUSBAND
 #-------------------------------
-[CAMPER,Gonzalo]
+[ENANO,Gonzalo]
 LoseText = ¡No podrás con Ginzu!
 Pokemon = KABUTOPS,41
 #===============================
@@ -477,7 +477,7 @@ Pokemon = MILOTIC,51
     Moves = CALMMIND,SURF,RECOVER,ICEBEAM
     Item = LEFTOVERS
 #-------------------------------
-[CAMPER,Daniel]
+[MARINE,Daniel]
 LoseText = ¡No podrás con Yaki!
 Pokemon = JELLICENT,49
 #==============================
@@ -541,7 +541,7 @@ Pokemon = TANGROWTH,56
 #==============================
 # CLARO LUNAR
 #==============================
-[CAMPER,Esneisi]
+[ELFO,Esneisi]
 LoseText = ¡No podrás con Entseeker!
 Pokemon = MEGANIUM,64
 #-------------------------------
@@ -696,7 +696,7 @@ Pokemon = HAXORUS,75
 LoseText = ¡Tú aplastar!
 Pokemon = HYDREIGON,75
 #-------------------------------
-[CAMPER,Brayan]
+[ELFO,Brayan]
 LoseText = ¡No podrás con Keena!
 Pokemon = AROMATISSE,75
 #-------------------------------
@@ -710,3 +710,183 @@ Pokemon = PRIMARINA,77
 Pokemon = GARDEVOIR,77
     Moves = PSYCHIC,MOONBLAST,CALMMIND,SHADOWBALL
     Item = GARDEVOIRITE
+#==============================
+# RUDOTAR
+#==============================
+[MARINE,Lothar]
+LoseText = Vuelvo a Bolarus.
+Pokemon = AVALUGG,76
+Pokemon = BLASTOISE,76
+#-------------------------------
+[MARINE,Daelin]
+LoseText = Vuelvo a Bolarus.
+Pokemon = CHARIZARD,76
+Pokemon = CLOYSTER,76
+#-------------------------------
+[MARINE,John]
+LoseText = Vuelvo a Bolarus.
+Pokemon = DEWGONG,76
+Pokemon = TALONFLAME,76
+#-------------------------------
+[MARINE,Jack]
+LoseText = Vuelvo a Bolarus.
+Pokemon = DRAGONITE,78
+#-------------------------------
+[MARINE,Edwin]
+LoseText = Vuelvo a Bolarus.
+Pokemon = KABUTOPS,76
+Pokemon = POLITOED,76
+#==============================
+# GUARIDA DE ONYXIA
+#==============================
+[LEADER_Thrall,Thrall]
+Items = MEGARING
+LoseText = Los elementos te han elegido.
+Pokemon = LUXRAY,80
+Pokemon = ELECTIVIRE,81
+Pokemon = LYCANROC,80
+Pokemon = TYRANITAR,81
+Pokemon = ARCANINE,80
+Pokemon = BLAZIKEN,81
+    Item = BLAZIKENITE
+#-------------------------------
+[OGRO,Graul]
+LoseText = Tú fuerte.
+Pokemon = AGGRON,78
+Pokemon = APPLETUN,78
+#-------------------------------
+[OGRO,Luruk]
+LoseText = Tú fuerte.
+Pokemon = ARCHEOPS,78
+Pokemon = ALTARIA,78
+#-------------------------------
+[OGRO,Berruct]
+LoseText = Tú fuerte.
+Pokemon = BARBARACLE,78
+Pokemon = BOUFFALANT,78
+#-------------------------------
+[OGRO,Angus]
+LoseText = Tú fuerte.
+Pokemon = BRONZONG,78
+Pokemon = CAMERUPT,78
+#-------------------------------
+[OGRO,Gronk]
+Items = MEGARING
+LoseText = Tú fuerte.
+Pokemon = FLYGON,78
+Pokemon = CHARIZARD,78
+    Item = CHARIZARDITEX
+#-------------------------------
+[OGRO,Thruk]
+LoseText = Tú fuerte.
+Pokemon = CLAYDOL,78
+Pokemon = COALOSSAL,78
+#-------------------------------
+[OGRO,Baradun]
+LoseText = Tú fuerte.
+Pokemon = DRAPION,78
+Pokemon = DRAGALGE,78
+#-------------------------------
+[OGRO,Gorok]
+LoseText = Tú fuerte.
+Pokemon = DRAGONITE,79
+Pokemon = FLYGON,78
+#-------------------------------
+[OGRO,Brull]
+LoseText = Tú fuerte.
+Pokemon = DRAGAPULT,79
+Pokemon = FLYGON,78
+#-------------------------------
+[OGRO,Gurn]
+LoseText = Tú fuerte.
+Pokemon = DRAMPA,78
+Pokemon = DUSKNOIR,78
+#-------------------------------
+[OGRO,Sult]
+LoseText = Tú fuerte.
+Pokemon = EMPOLEON,78
+Pokemon = EXCADRILL,78
+#-------------------------------
+[OGRO,Bargos]
+LoseText = Tú fuerte.
+Pokemon = FERALIGATR,78
+Pokemon = FLAPPLE,78
+#-------------------------------
+[OGRO,Kin]
+Items = MEGARING
+LoseText = Tú fuerte.
+Pokemon = FLYGON,78
+Pokemon = GARCHOMP,78
+    Item = GARCHOMPITE
+#-------------------------------
+[OGRO,Odert]
+LoseText = Tú fuerte.
+Pokemon = GOLISOPOD,78
+Pokemon = GOODRA,78
+#-------------------------------
+[OGRO,Oten]
+LoseText = Tú fuerte.
+Pokemon = HARIYAMA,78
+Pokemon = HAXORUS,78
+#-------------------------------
+[OGRO,Ort]
+LoseText = Tú fuerte.
+Pokemon = HOUNDOOM,78
+Pokemon = HEATRAN,78
+#-------------------------------
+[OGRO,Grell]
+LoseText = Tú fuerte.
+Pokemon = KANGASKHAN,78
+Pokemon = KINGDRA,78
+#-------------------------------
+[OGRO,Nargand]
+LoseText = Tú fuerte.
+Pokemon = MACHAMP,78
+Pokemon = NOIVERN,78
+#-------------------------------
+[OGRO,Taran]
+Items = MEGARING
+LoseText = Tú fuerte.
+Pokemon = FLYGON,78
+Pokemon = AMPHAROS,78
+    Item = AMPHAROSITE
+#-------------------------------
+[OGRO,Garadar]
+Items = MEGARING
+LoseText = Tú fuerte.
+Pokemon = FLYGON,78
+Pokemon = SCEPTILE,78
+    Item = SCEPTILITE
+#-------------------------------
+[OGRO,Omokk]
+Items = MEGARING
+LoseText = Tú fuerte.
+Pokemon = FLYGON,78
+Pokemon = SALAMENCE,78
+    Item = SALAMENCITE
+#-------------------------------
+[ONYXIA,Onyxia]
+Pokemon = ONYXIA,80
+Pokemon = WHELP,60
+Pokemon = WHELP,60
+Pokemon = WHELP,60
+Pokemon = WHELP,60
+Pokemon = WHELP,60
+#==============================
+# POLGRIMMAR
+#==============================
+[LEADER_Thrall,Thrall]
+Items = MEGARING
+LoseText = Los elementos te han elegido.
+Pokemon = LUXRAY,80
+Pokemon = ELECTIVIRE,81
+Pokemon = LYCANROC,80
+Pokemon = TYRANITAR,81
+Pokemon = ARCANINE,80
+Pokemon = BLAZIKEN,81
+    Item = BLAZIKENITE
+#-------------------------------
+[ORCO,Tormentitas]
+LoseText = ¡No podrás con Thrall!
+Pokemon = CHARIZARD,79
+#-------------------------------
