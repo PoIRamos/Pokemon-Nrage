@@ -516,6 +516,11 @@ Name = Polgrimmar
 Outdoor = true
 ShowArea = true
 #-------------------------------
+[088]   # Gimnasio Polgrimmar
+Name = Gimnasio Polgrimmar
+Outdoor = false
+BattleBack = indoor1
+#-------------------------------
 [089]   # Guarida de Onyxia
 Name = Guarida de Onyxia
 Outdoor = false
@@ -543,3 +548,9 @@ Outdoor = false
 ShowArea = false
 BattleBack = rocky
 Environment = Cave
+#-------------------------------
+[093]   # Denoregan
+Name = Denoregan
+Outdoor = false
+ShowArea = true
+BattleBack = indoor1

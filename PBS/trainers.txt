@@ -879,14 +879,146 @@ Pokemon = WHELP,60
 Items = MEGARING
 LoseText = Los elementos te han elegido.
 Pokemon = LUXRAY,80
-Pokemon = ELECTIVIRE,81
+Pokemon = ELECTIVIRE,82
 Pokemon = LYCANROC,80
-Pokemon = TYRANITAR,81
+Pokemon = TYRANITAR,82
 Pokemon = ARCANINE,80
-Pokemon = BLAZIKEN,81
+Pokemon = BLAZIKEN,82
     Item = BLAZIKENITE
 #-------------------------------
 [ORCO,Tormentitas]
 LoseText = ¡No podrás con Thrall!
 Pokemon = CHARIZARD,79
+#==============================
+# DENOREGAN SALA 1
+#==============================
+[TEAMROCKET_F,Aredia]
+LoseText = ¡No puede ser!
+Pokemon = ELECTABUZZ,80
+Pokemon = BRONZONG,80
+#-------------------------------
+[TEAMROCKET_F,Sofía]
+LoseText = ¡No puede ser!
+Pokemon = MAGNEZONE,81
+Pokemon = JOLTEON,81
+#==============================
+# DENOREGAN SALA 2
+#==============================
+[TEAMROCKET_F,María]
+LoseText = ¡No puede ser!
+Pokemon = BLISSEY,80
+Pokemon = ALAKAZAM,80
+#-------------------------------
+[TEAMROCKET_F,Ana]
+LoseText = ¡No puede ser!
+Pokemon = CARNIVINE,80
+Pokemon = COFAGRIGUS,80
+#-------------------------------
+[TEAMROCKET_F,Bea]
+LoseText = ¡No puede ser!
+Pokemon = CORVIKNIGHT,80
+Pokemon = CROBAT,80
+#-------------------------------
+[TEAMROCKET_F,Joana]
+LoseText = ¡No puede ser!
+Pokemon = LOPUNNY,81
+Pokemon = DELPHOX,81
+#-------------------------------
+[TEAMROCKET_F,Juliana]
+LoseText = ¡No puede ser!
+Pokemon = CRYOGONAL,81
+Pokemon = LUCARIO,81
+#-------------------------------
+[TEAMROCKET_F,Nerea]
+LoseText = ¡No puede ser!
+Pokemon = EELEKTROSS,81
+Pokemon = MAWILE,81
+#==============================
+# DENOREGAN SALA 3
+#==============================
+[TEAMROCKET_F,Laura]
+LoseText = ¡No puede ser!
+Pokemon = HELIOLISK,80
+Pokemon = LOPUNNY,80
+#-------------------------------
+[TEAMROCKET_F,Eva]
+LoseText = ¡No puede ser!
+Pokemon = MANECTRIC,80
+Pokemon = MELMETAL,80
+#-------------------------------
+[TEAMROCKET_F,Nora]
+LoseText = ¡No puede ser!
+Pokemon = MUDSDALE,80
+Pokemon = RAICHU,80
+#-------------------------------
+[TEAMROCKET_F,Silvia]
+LoseText = ¡No puede ser!
+Pokemon = EMPOLEON,80
+Pokemon = ROTOM,80
+#-------------------------------
+[TEAMROCKET_F,Marta]
+LoseText = ¡No puede ser!
+Pokemon = MRMIME,81
+Pokemon = SLOWKING,81
+#-------------------------------
+[TEAMROCKET_F,Paula]
+LoseText = ¡No puede ser!
+Pokemon = STAKATAKA,80
+Pokemon = TOXTRICITY,80
+#-------------------------------
+[TEAMROCKET_F,Elizabeth]
+LoseText = ¡No puede ser!
+Pokemon = TURTONATOR,80
+Pokemon = WEEZING,80
+#-------------------------------
+[TEAMROCKET_F,Miriam]
+LoseText = ¡No puede ser!
+Pokemon = WOBBUFFET,80
+Pokemon = XATU,80
+#-------------------------------
+[TEAMROCKET_F,Jane]
+LoseText = ¡No puede ser!
+Pokemon = METAGROSS,81
+Pokemon = NINETALES_ALOLA,81
+#-------------------------------
+#==============================
+# DENOREGAN SALA DENORA
+#==============================
+[TEAMROCKET_M,Bodeguita,1]
+Items = MEGARING
+LoseText = Ha sido un mal try, no te lo tengas tan creído.
+Pokemon = ZOROARK,83
+Pokemon = ABSOL,83
+    Item = ABSOLITE
+Pokemon = WEAVILE, 83
+Pokemon = HYDREIGON,84
+#-------------------------------
+[TEAMROCKET_M,Ciszek,1]
+Items = MEGARING
+LoseText = Pero tú eres una barbaridad.
+Pokemon = GALVANTULA,83
+Pokemon = AMPHAROS, 83
+Pokemon = ELECTIVIRE,83
+Pokemon = HERACROSS,84
+    Item = HERACRONITE
+#-------------------------------
+[TEAMROCKET_M,Beto,1]
+Items = MEGARING
+LoseText = Bueno pues pártele la boca al putero.
+Pokemon = MAGMORTAR,83
+Pokemon = TYPHLOSION, 83
+Pokemon = VOLCARONA,83
+Pokemon = CHARIZARD,84
+    Item = CHARIZARDITEY
+#-------------------------------
+[ROCKETBOSS,Denora,2]
+Items = MEGARING
+LoseText = ¡No puede ser!
+Pokemon = CROBAT,84
+Pokemon = DRAPION,84
+Pokemon = VENUSAUR,84
+Pokemon = SALAZZLE,84
+Pokemon = DRAGALGE,84
+Pokemon = GENGAR,85
+    Item = GENGARITE
 #-------------------------------

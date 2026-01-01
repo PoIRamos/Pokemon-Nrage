@@ -699,7 +699,7 @@ Description = Lanza un destello que baja la precisión del enemigo. Debe llevarl
 Name = Mineral Evolutivo
 NamePlural = Minerales Evolutivos
 Pocket = 1
-Price = 3000
+Price = 100000
 SellPrice = 2000
 Flags = Fling_40
 Description = Piedra evolutiva. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar.
@@ -6260,4 +6260,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Cabeza de la madre de la prole. Quizás le interese al señor supremo Colmilloturbo.
+#-------------------------------
+[ESCUDO_DENOREGAN]
+Name = Escudo electromagnético
+NamePlural = Escudo electromagnético
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un escudo capaz de crear una barrera del tamaño suficiente para cubrir una flota.
 #-------------------------------
