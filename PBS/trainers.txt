@@ -18,18 +18,8 @@ Pokemon = ONIX,14
     AbilityIndex = 0
     Item = SITRUSBERRY
     IV = 20,20,20,20,20,20
+    EV = 4,0,252,0,252,0
     Ball = HEAVYBALL
-
-[CHAMPION,Sistine,1]
-LoseText = Buen combate.
-Pokemon = NINETALES_ALOLA,100
-    Item = LIGHTCLAY
-Pokemon = ARTICUNO,100
-Pokemon = MAMOSWINE,100
-Pokemon = LAPRAS,100
-Pokemon = GLACEON,100
-Pokemon = SINDRAGOSA,100
-    Moves = OBLITERATE,DRAGONASCENT,OUTRAGE,EARTHQUAKE
 #-------------------------------    
 #==============================
 # BOSQUE DE ELBUIN
@@ -170,7 +160,7 @@ Pokemon = MIGHTYENA,30
 #==============================
 # GARGANTA FOGOSA
 #==============================
-[LEADER_Brock,Keena]
+[LEADER_Keena,Keena]
 Pokemon = TROPIUS,33
 Pokemon = HARIYAMA,33
 Pokemon = SWAMPERT,34
@@ -700,7 +690,7 @@ Pokemon = HYDREIGON,75
 LoseText = ¡No podrás con Keena!
 Pokemon = AROMATISSE,75
 #-------------------------------
-[LEADER_Brock,Keena,1]
+[LEADER_Keena,Keena,1]
 Items = MEGARING
 LoseText = Esta vez tenías razón.
 Pokemon = TOGEKISS,76
@@ -742,12 +732,12 @@ Pokemon = POLITOED,76
 [LEADER_Thrall,Thrall]
 Items = MEGARING
 LoseText = Los elementos te han elegido.
-Pokemon = LUXRAY,80
-Pokemon = ELECTIVIRE,81
-Pokemon = LYCANROC,80
-Pokemon = TYRANITAR,81
-Pokemon = ARCANINE,80
-Pokemon = BLAZIKEN,81
+Pokemon = LUXRAY,81
+Pokemon = ELECTIVIRE,82
+Pokemon = LYCANROC,81
+Pokemon = TYRANITAR,82
+Pokemon = ARCANINE,81
+Pokemon = BLAZIKEN,82
     Item = BLAZIKENITE
 #-------------------------------
 [OGRO,Graul]
@@ -980,7 +970,6 @@ Pokemon = XATU,80
 LoseText = ¡No puede ser!
 Pokemon = METAGROSS,81
 Pokemon = NINETALES_ALOLA,81
-#-------------------------------
 #==============================
 # DENOREGAN SALA DENORA
 #==============================
@@ -1021,4 +1010,171 @@ Pokemon = SALAZZLE,84
 Pokemon = DRAGALGE,84
 Pokemon = GENGAR,85
     Item = GENGARITE
+#==============================
+# RASGAMONTE
+#==============================
+
+#==============================
+# LIGA POKEMON
+#==============================
+[ELITEFOUR_Anduin,Anduin]
+LoseText = ¡Sabía que lo conseguirías!
+Items = MEGARING
+Pokemon = SLOWKING,92
+Pokemon = DELPHOX,92
+Pokemon = ESPEON,92
+Pokemon = METAGROSS,92
+Pokemon = LATIOS,92
+Pokemon = GALLADE,92
+    Item = GALLADITE
 #-------------------------------
+[ELITEFOUR_Varok,Colmillosauro]
+LoseText = ¡Fuerza y honor!
+Items = MEGARING
+Pokemon = DRUDDIGON,94
+Pokemon = HAXORUS,94
+Pokemon = SALAMENCE,94
+Pokemon = GARCHOMP,94
+Pokemon = NOIVERN,94
+Pokemon = CHARIZARD,94
+    Item = CHARIZARDITEX
+#-------------------------------
+#HP, Attack, Defense, Sp.Atk, Sp.Def, Speed
+[ELITEFOUR_Mojo,Mojo]
+LoseText = Qué falso, si sólo estaba probando la hitbox.
+Items = MEGARING
+Pokemon = SKARMORY,96
+    Moves = SPIKES,BODYPRESS,IRONDEFENSE,STEALTHROCK
+    AbilityIndex = 1
+    Item = ROCKYHELMET
+    IV = 20,20,20,20,20,20
+    EV = 4,0,252,0,252,0
+    Nature = IMPISH
+Pokemon = AGGRON,96
+    Moves = BODYPRESS,HEAVYSLAM,PROTECT,ROCKSLIDE
+    AbilityIndex = 0
+    Item = AGGRONITE
+    IV = 20,20,20,20,20,20
+    EV = 4,252,252,0,0,0
+    Nature = RELAXED
+Pokemon = ZAMAZENTA,96
+    Moves = BODYPRESS,HEAVYSLAM,REST,BEHEMOTHBASH
+    AbilityIndex = 0
+    Item = RUSTEDSHIELD
+    IV = 20,20,20,20,20,20
+    EV = 0,4,252,0,252,0
+    Nature = IMPISH
+Pokemon = AEGISLASH,96
+    Moves = KINGSSHIELD,SHADOWSNEAK,SHADOWCLAW,IRONHEAD
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+    EV = 4,252,252,0,0,0
+    Nature = RELAXED
+Pokemon = EMPOLEON,96
+    Moves = IRONHEAD,HYDROPUMP,AVALANCHE,ICEBEAM
+    AbilityIndex = 1
+    Item = ASSAULTVEST
+    IV = 20,20,20,20,20,20
+    EV = 4,0,252,252,0,0
+    Nature = MODEST
+Pokemon = MAGNEZONE,96
+    Moves = DISCHARGE,FLASHCANNON,PROTECT,VOLTSWITCH
+    Ability = ANALYTIC
+    Item = AIRBALLOON
+    IV = 20,20,20,20,20,20
+    EV = 4,0,126,252,126,0
+    Nature = QUIET
+#-------------------------------
+#HP, Attack, Defense, Sp.Atk, Sp.Def, Speed
+[ELITEFOUR_Tuerkitas,Tuerkitas]
+LoseText = No pasa nada. La Época Dorada no se extingue… solo se reinicia.
+Items = MEGARING
+Pokemon = SPIRITOMB,98
+    Moves = WILLOWISP,FOULPLAY,PAINSPLIT,SHADOWSNEAK
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 20,20,20,20,20,20
+    EV = 252,0,128,0,128,0
+    Nature = CAREFUL
+Pokemon = COFAGRIGUS,98
+    Moves = WILLOWISP,HEX,HAZE,PAINSPLIT
+    AbilityIndex = 0
+    Item = ROCKYHELMET
+    IV = 20,20,20,20,20,20
+    EV = 252,0,252,0,4,0
+    Nature = BOLD
+Pokemon = GOLURK,98
+    Moves = POLTERGEIST,EARTHQUAKE,ICEPUNCH,ROCKSLIDE
+    AbilityIndex = 0
+    Item = ASSAULTVEST
+    IV = 20,20,20,20,20,20
+    EV = 4,252,252,0,0,0
+    Nature = ADAMANT
+Pokemon = BANETTE,98
+    Moves = PSYCHOCUT,SHADOWCLAW,SUCKERPUNCH,WILLOWISP
+    AbilityIndex = 0
+    Item = BANETTITE
+    IV = 20,20,20,20,20,20
+    EV = 4,252,0,0,0,252
+    Nature = JOLLY
+Pokemon = GENGAR,98
+    Moves = SHADOWBALL,SLUDGEBOMB,FOCUSBLAST,THUNDERBOLT
+    AbilityIndex = 0
+    Item = LIFEORB
+    IV = 20,20,20,20,20,20
+    EV = 0,0,0,252,4,252
+    Nature = TIMID
+Pokemon = DRAGAPULT,98
+    Moves = DRAGONDARTS,PHANTOMFORCE,UTURN,DRAGONDANCE
+    AbilityIndex = 1
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    EV = 0,252,0,0,4,252
+    Nature = JOLLY
+# IV/EV: HP, Attack, Defense, Sp.Atk, Sp.Def, Speed
+#-------------------------------
+[CHAMPION,Sistine,1]
+LoseText = Sólo veo oscuridad ante mí.
+Pokemon = NINETALES_ALOLA,100
+    Moves = AURORAVEIL,BLIZZARD,FREEZEDRY,MOONBLAST
+    AbilityIndex = 0
+    Item = LIGHTCLAY
+    IV = 26,26,26,26,26,26
+    EV = 0,0,0,252,4,252
+    Nature = TIMID
+Pokemon = ARTICUNO,100
+    Moves = BLIZZARD,ROOST,FREEZEDRY,UTURN
+    AbilityIndex = 0
+    Item = HEAVYDUTYBOOTS
+    IV = 26,26,26,26,26,26
+    EV = 252,0,0,252,4,0
+    Nature = CALM
+Pokemon = MAMOSWINE,100
+    Moves = EARTHQUAKE,AVALANCHE,ICESHARD,IRONHEAD
+    AbilityIndex = 0
+    Item = LIFEORB
+    IV = 26,26,26,26,26,26
+    EV = 0,252,0,0,4,252
+    Nature = JOLLY
+Pokemon = LAPRAS,100
+    Moves = FREEZEDRY,HYDROPUMP,THUNDERBOLT,BLIZZARD
+    AbilityIndex = 0
+    Item = ASSAULTVEST
+    IV = 26,26,26,26,26,26
+    EV = 252,0,0,252,4,0
+    Nature = MODEST
+Pokemon = GLACEON,100
+    Moves = AURORAVEIL,BLIZZARD,CALMMIND,SHADOWBALL
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 26,26,26,26,26,26
+    EV = 0,0,0,252,4,252
+    Nature = MODEST
+Pokemon = SINDRAGOSA,100
+    Moves = OBLITERATE,DRAGONASCENT,OUTRAGE,EARTHQUAKE
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 26,26,26,26,26,26
+    EV = 0,252,0,0,4,252
+    Nature = ADAMANT

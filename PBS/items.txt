@@ -4788,6 +4788,15 @@ FieldUse = HM
 Move = DIVE
 Description = Primer turno: se sumerge en el mar.  Segundo turno: emerge y ataca.
 #-------------------------------
+[HM07]
+Name = HM07
+NamePlural = HM07
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = ROCKSMASH
+Description = Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo.
+#-------------------------------
 [CHERIBERRY]
 Name = Baya Zreza
 NamePlural = Bayas Zreza
@@ -6268,4 +6277,12 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = Un escudo capaz de crear una barrera del tamaño suficiente para cubrir una flota.
+#-------------------------------
+[YELMO_DOMINACION]
+Name = Yelmo de Dominación
+NamePlural = Yelmo de Dominación
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Yelmo del Rey Exánime que muestra que has derrotado a Sistine y convertido en campeón de la Liga.
 #-------------------------------

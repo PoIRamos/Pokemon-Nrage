@@ -7,24 +7,20 @@ Name = Intro
 Name = Abadía del norte
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Casa jugador
-Name = \PN's house
+Name = Casa de \PN
 HealingSpot = 2,8,8
-MapPosition = 0,13,12
 #-------------------------------
 [004]   # Laboratorio Oak
-Name = Pokémon Lab
+Name = Abadía del norte
 ShowArea = false
-MapPosition = 0,13,12
 #-------------------------------
 [005]   # Bosque de Elbuin
 Name = Bosque de Elbuin
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,11
 BattleBack = field
 Environment = Forest
 #-------------------------------
@@ -32,28 +28,25 @@ Environment = Forest
 Name = Villa de oro
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,11
 BattleBack = field
+MapPosition = 0,93,70
 #-------------------------------
 [007]   # Valle del Fresno
 Name = Valle del Fresno
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = forest
 MapSize = 2,11
 Environment = Forest
 #-------------------------------
 [008]   # Casa de Denora
-Name = Lappet Town
-MapPosition = 0,13,12
+Name = Abadía del norte
 #-------------------------------
 [009]   # Paso de Frondavil
 Name = Paso de Frondavil
 Outdoor = false
 ShowArea = true
 HealingSpot = 8,17,11
-MapPosition = 0,14,10
 DarkMap = true
 BattleBack = rocky
 Environment = Cave
@@ -62,44 +55,38 @@ Environment = Cave
 Name = Claro Lunar
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = forest
 Environment = Forest
-Flags = DisableBoxLink
 #-------------------------------
 [011]   # Centro Claro Lunar
-Name = Cedolan City
-MapPosition = 0,14,10
+Name = Claro Lunar
+Outdoor = false
 #-------------------------------
 [012]   # Tienda Claro Lunar
-Name = Cedolan City
-MapPosition = 0,14,10
+Name = Claro Lunar
+Outdoor = false
 #-------------------------------
 [013]   # Gimnasio Claro Lunar
-Name = Gimnasio Claro Lunar
-MapPosition = 0,14,10
+Name = Claro Lunar
+Outdoor = false
 BattleBack = indoor1
 #-------------------------------
 [014]   # Los Baldíos
 Name = Los Baldíos
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = field
 #-------------------------------
 [015]   # Centro Los Baldíos
-Name = Cedolan City
-MapPosition = 0,13,10
+Name = Los Baldíos
 #-------------------------------
 [016]   # Tienda Los Baldíos
-Name = Cedolan City
-MapPosition = 0,13,10
+Name = Los Baldíos
 #-------------------------------
 [017]   # Las Cien Agujas
 Name = Las Cien Agujas
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = rocky
 Environment = Rock
 #-------------------------------
@@ -108,7 +95,6 @@ Name = Taranis
 Outdoor = true
 ShowArea = true
 Weather = Sun,100
-MapPosition = 0,13,10
 BattleBack = sand
 Environment = Sand
 #-------------------------------
@@ -116,7 +102,6 @@ Environment = Sand
 Name = Cráter de Gun'oro
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = forest
 Environment = Forest
 #-------------------------------
@@ -124,81 +109,70 @@ Environment = Forest
 Name = Felaras
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,10
 BattleBack = forest
 Environment = Forest
 #-------------------------------
 [021]   # Centro pokemon Villa de oro
-Name = Centro pokemon
+Name = Villa de Oro
 Outdoor = false
 ShowArea = false
-MapPosition = 0,14,8
 BattleBack = field
-MapSize = 1,11
+MapPosition = 0,93,70
 #-------------------------------
 [022]   # Gimnasio Villa de oro
-Name = Gimnasio Villa de oro
+Name = Villa de Oro
 BattleBack = indoor1
+MapPosition = 0,93,70
 #-------------------------------
-[023]   # Lerucean Town
-Name = Lerucean Town
+[023]   # Alto Mando 3
+Name = Sala Alto Mando 3
+Outdoor = false
+BattleBack = elite5
+#-------------------------------
+[024]   # Alto Mando 4
+Name = Sala Alto Mando 4
+Outdoor = false
+BattleBack = elite4
+#-------------------------------
+[025]   # Campeón
+Name = Sala Campeón
+Outdoor = false
+Weather = Snow,100
+BattleBack = elite1
+#-------------------------------
+[026]   # Camino al campeón
+Name = Camino al campeon
 Outdoor = true
+Weather = Snow,100
+#-------------------------------
+[027]   # Núcleo de Magma
+Name = Núcleo de Magma
+Outdoor = false
 ShowArea = true
-MapPosition = 0,15,8
-#-------------------------------
-[024]   # Lerucean Town Poké Center
-Name = Lerucean Town
-HealingSpot = 23,11,15
-MapPosition = 0,15,8
-#-------------------------------
-[025]   # Lerucean Town Mart
-Name = Lerucean Town
-MapPosition = 0,15,8
-#-------------------------------
-[026]   # Pokémon Fan Club
-Name = Lerucean Town
-MapPosition = 0,15,8
-#-------------------------------
-[027]   # Pokémon Day Care
-Name = Lerucean Town
-MapPosition = 0,15,8
+BattleBack = cave1
 #-------------------------------
 [028]   # Tienda Villa de oro
-Name = Natural Park
-Outdoor = true
+Name = Tienda Villa de oro
 ShowArea = false
-MapPosition = 0,16,8
-BattleBack = field
-Flags = MossRock
 #-------------------------------
 [029]   # Posada del león orgulloso
 Name = Posada del león orgulloso
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,8
 BattleBack = indoor1
+MapPosition = 0,93,70
 #-------------------------------
 [030]   # Loch Moras
 Name = Loch Moras
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,11
 BattleBack = forest
 Environment = Forest
-#-------------------------------
-[031]   # Route 3
-Name = Route 3
-Outdoor = true
-ShowArea = true
-MapPosition = 0,14,6
-BattleBack = field
-MapSize = 2,1101
 #-------------------------------
 [032]   # Guarida de Wendigos
 Name = Guarida de Wendigos
 Outdoor = false
 ShowArea = true
-MapPosition = 0,14,6
 BattleBack = cave1
 Environment = Cave
 Flags = IceRock
@@ -211,50 +185,17 @@ Weather = Snow,100
 BattleBack = snow
 Environment = Snow
 #-------------------------------
-[034]   # Ice Cave
-Name = Route 3
-Bicycle = true
-MapPosition = 0,15,6
-BattleBack = cave1
-Environment = Cave
-Flags = IceRock
-#-------------------------------
-[035]   # Ingido Plateau outside
-Name = Ingido Plateau
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,6
-#-------------------------------
-[036]   # Pokémon League entrance
-Name = Ingido Plateau
-HealingSpot = 35,17,7
-MapPosition = 0,13,6
-#-------------------------------
-[037]   # Pokémon League room 1
-Name = Ingido Plateau
-MapPosition = 0,13,6
-BattleBack = elite1
-Flags = DisableBoxLink
-#-------------------------------
-[038]   # Hall of Fame
-Name = Ingido Plateau
-MapPosition = 0,13,6
-Flags = DisableBoxLink
-#-------------------------------
 [039]   # Gimnasio Dun Moros
-Name = Gimnasio de Dun Moros
+Name = Dun Moros
 Outdoor = false
 ShowArea = false
-MapPosition = 0,11,6
 BattleBack = indoor1
-MapSize = 2,11
 #-------------------------------
 [040]   # Bosque Oscuro
 Name = Bosque oscuro
 Outdoor = true
 ShowArea = true
 BicycleAlways = false
-MapPosition = 0,11,6
 BattleBack = forest
 Environment = ForestGrass
 #-------------------------------
@@ -263,44 +204,33 @@ Name = Villa Oscura
 Outdoor = true
 ShowArea = true
 BicycleAlways = false
-MapPosition = 0,11,7
 BattleBack = forest
-MapSize = 1,111
 Environment = ForestGrass
 #-------------------------------
 [044]   # Gimnasio Villa Oscura
-Name = Gimnasio de Villa Oscura
-Outdoor = false
-ShowArea = false
-MapPosition = 0,11,10
+Name = Villa Oscura
 BattleBack = indoor1
-MapSize = 2,11
 #-------------------------------
 [045]   # Garganta fogosa
 Name = Garganta fogosa
 Outdoor = true
 ShowArea = true
 BicycleAlways = false
-MapPosition = 0,11,10
 BattleBack = rocky
 Environment = Volcano
 #-------------------------------
 [046]   # Monte Piedra Negra
 Name = Monte Piedra Negra
+Outdoor = false
 ShowArea = true
 Bicycle = false
-MapPosition = 0,12,6
 BattleBack = rocky
 Environment = Cave
 #-------------------------------
 [047]   # Conexión BRM-BRD
-Name = Route 7
-Outdoor = true
-ShowArea = true
-Weather = Rain,0
-MapPosition = 0,15,10
+Name = Monte Piedra Negra
+Outdoor = false
 BattleBack = rocky
-MapSize = 2,11
 Environment = Rock
 #-------------------------------
 [048]   # Profundidades Piedra Negra
@@ -311,76 +241,55 @@ BattleBack = rocky
 Environment = Volcano
 #-------------------------------
 [049]   # Centro Profundidades Piedra Negra
-Name = Route 7
-Bicycle = true
-MapPosition = 0,16,10
+Name = Profundidades Piedra Negra
 BattleBack = cave1
 Environment = Cave
-Flags = Magnetic,DistortionWorld
 #-------------------------------
 [050]   # Cumbre Piedra Negra
 Name = Cumbre Piedra Negra
 ShowArea = true
-Bicycle = true
-MapPosition = 0,16,10
 DarkMap = false
 BattleBack = rocky
 Environment = Rock
-Flags = Magnetic,DistortionWorld
 #-------------------------------
 [051]   # Tienda Cumbre Piedra Negra
-Name = Route 7
-Bicycle = true
-MapPosition = 0,16,10
-Dungeon = false
+Name = Cumbre Piedra Negra
 BattleBack = cave2
 Environment = Cave
-Flags = Magnetic,DistortionWorld
 #-------------------------------
 [052]   # Gimnasio Cumbre Piedra Negra
-Name = Gimnasio Cumbre Piedra Negra
-Outdoor = false
-ShowArea = false
-MapPosition = 0,17,10
+Name = Cumbre Piedra Negra
 BattleBack = indoor1
 #-------------------------------
 [053]   # Terraza de la cumbre
-Name = Cumbre Piedra Negra
+Name = Cumbre Piedra Negra Exterior
 ShowArea = true
 HealingSpot = 52,17,14
-MapPosition = 0,17,10
 BattleBack = field
 Environment = Grass
 #-------------------------------
 [054]   # Centro Cumbre Piedra Negra
-Name = Battle Frontier
-MapPosition = 0,17,10
+Name = Cumbre Piedra Negra
 #-------------------------------
 [055]   # Instituto de fósiles
-Name = Battle Frontier
-HealingSpot = 52,30,10
-MapPosition = 0,17,10
+Name = Cumbre Piedra Negra
 #-------------------------------
 [056]   # Vega de Espina Torcida
 Name = Vega de Espina Torcida
 ShowArea = true
-MapPosition = 0,17,10
 BattleBack = forest
 Environment = ForestGrass
-Flags = DisableBoxLink
 #-------------------------------
 [057]   # Gul Zurub
 Name = Gul'Zurub
 Outdoor = true
 ShowArea = true
-MapPosition = 0,17,10
 BattleBack = forest
 Environment = ForestGrass
 #-------------------------------
 [058]   # Arena Gurubashi
 Name = Arena Gurubashi
 ShowArea = true
-MapPosition = 0,17,10
 BattleBack = champion1
 Environment = None
 #-------------------------------
@@ -388,110 +297,65 @@ Environment = None
 Name = Bahía del tesoro
 Outdoor = true
 ShowArea = true
-MapPosition = 0,17,10
 BattleBack = field
-Flags = DisableBoxLink
 #-------------------------------
 [060]   # Centro Booty Bay
-Name = Battle Frontier
-MapPosition = 0,17,10
+Name = Bahía del tesoro
 #-------------------------------
 [061]   # Tienda Booty Bay
-Name = Battle Frontier
-MapPosition = 0,17,10
+Name = Bahía del tesoro
 BattleBack = indoor1
-Flags = DisableBoxLink
 #-------------------------------
 [062]   # Puerto de Bolarus
 Name = Puerto de Bolarus
 Outdoor = true
 ShowArea = true
-MapPosition = 0,17,10
 #-------------------------------
 [063]   # Almacén
-Name = Almacén del puerto
-MapPosition = 0,17,10
-Flags = DisableBoxLink
+Name = Puerto de Bolarus
 #-------------------------------
 [064]   # Cuartel de la marina
-Name = Cuartel de la marina
-MapPosition = 0,17,10
+Name = Puerto de Bolarus
 BattleBack = indoor1
-Flags = DisableBoxLink
 #-------------------------------
 [065]   # Piso 2
-Name = Cuartel de la marina
-MapPosition = 0,17,10
-Flags = DisableBoxLink
+Name = Puerto de Bolarus
 #-------------------------------
 [066]   # Ciudad de Bolarus
 Name = Ciudad de Bolarus
 Outdoor = true
 ShowArea = true
-MapPosition = 0,12,12
 BattleBack = field
 #-------------------------------
 [067]   # Centro comercial. P1
-Name = Centro comercial
-MapPosition = 0,12,12
+Name = Ciudad de Bolarus
 #-------------------------------
 [068]   # Centro comercial P2
-Name = Centro comercial
-Outdoor = true
-ShowArea = true
-MapPosition = 0,12,12
-SafariMap = true
-BattleBack = forest
-Environment = Forest
+Name = Ciudad de Bolarus
 #-------------------------------
 [069]   # Centro comercial P3
-Name = Centro comercial
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,13
-DiveMap = 70
-BattleBack = field
+Name = Ciudad de Bolarus
 #-------------------------------
 [070]   # Centro comercial P4
-Name = Centro comercial
-MapPosition = 0,13,13
-BattleBack = underwater
-Environment = Underwater
+Name = Ciudad de Bolarus
 #-------------------------------
 [071]   # Centro comercial P5
-Name = Centro comercial
-MapPosition = 0,13,13
+Name = Ciudad de Bolarus
 #-------------------------------
 [072]   # Centro comercial azotea
-Name = Centro comercial
-Outdoor = true
-ShowArea = true
-Weather = Storm,50
-MapPosition = 0,18,17
-BattleBack = field
-Flags = DistortionWorld
+Name = Ciudad de Bolarus
 #-------------------------------
 [073]   # Centro comercial ascensor
-Name = Centro comercial
-Outdoor = true
-ShowArea = true
-MapPosition = 0,22,16
-BattleBack = field
-Flags = DistortionWorld
+Name = Ciudad de Bolarus
 #-------------------------------
 [074]   # Casino Proudmoore
-Name = Casino Proudmoore
-Bicycle = true
-MapPosition = 0,12,10
+Name = Ciudad de Bolarus
 #-------------------------------
 [075]   # Tienda Bolarus
-Name = Tiall Region
-Outdoor = true
-MapPosition = 1,13,16
-BattleBack = city
+Name = Ciudad de Bolarus
 #-------------------------------
 [078]   # Gimnasio Bolarus
-Name = Gimnasio Bolarus
+Name = Ciudad de Bolarus
 BattleBack = indoor1
 #-------------------------------
 [079]   # Costa Oscurecida
@@ -501,8 +365,14 @@ ShowArea = true
 BattleBack = forest
 Environment = ForestGrass
 #-------------------------------
+[081]   # Centro Felaras
+Name = Felaras
+#-------------------------------
+[082]   # Tienda Felaras
+Name = Felaras
+#-------------------------------
 [083]   # Gimnasio Felaras
-Name = Gimnasio Felaras
+Name = Felaras
 BattleBack = indoor1
 #-------------------------------
 [084]   # Rudotar
@@ -517,8 +387,7 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [088]   # Gimnasio Polgrimmar
-Name = Gimnasio Polgrimmar
-Outdoor = false
+Name = Polgrimmar
 BattleBack = indoor1
 #-------------------------------
 [089]   # Guarida de Onyxia
@@ -554,3 +423,48 @@ Name = Denoregan
 Outdoor = false
 ShowArea = true
 BattleBack = indoor1
+#-------------------------------
+[099]   # Rasgamonte
+Name = Rasgamonte
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[102]   # Sala 2
+Name = Rasgamonte
+Outdoor = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[103]   # Sala 3
+Name = Rasgamonte
+Outdoor = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[104]   # Sala 4
+Name = Rasgamonte
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[105]   # Liga Pokemon
+Name = Liga Pokemon
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[108]   # Alto Mando 1
+Name = Sala Alto Mando 1
+Outdoor = false
+BattleBack = elite4
+#-------------------------------
+[109]   # Alto Mando 2
+Name = Sala Alto Mando 2
+Outdoor = false
+BattleBack = elite6

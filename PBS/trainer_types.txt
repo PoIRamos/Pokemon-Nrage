@@ -466,13 +466,6 @@ BaseMoney = 70
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
-[CHAMPION]
-Name = Campeona
-Gender = Female
-BaseMoney = 100
-BattleBGM = Battle Champion
-VictoryBGM = Battle victory leader
-#-------------------------------
 [GURUBASHI]
 Name = Devoto Gurubashi
 Gender = Male
@@ -545,4 +538,52 @@ Name = Elfo
 Gender = Male
 BaseMoney = 32
 IntroBGM = Trainers Eyes Meet
+#-------------------------------
+[GHOUL]
+Name = Necrófago
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainers Eyes Meet
+#-------------------------------
+[LEADER_Keena]
+Name = Líder
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Anduin]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Varok]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Mojo]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Tuerkitas]
+Name = Alto Mando
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION]
+Name = Campeona
+Gender = Female
+BaseMoney = 120
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
 #-------------------------------
