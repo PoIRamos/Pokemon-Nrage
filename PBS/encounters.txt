@@ -1,11 +1,5 @@
 ﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
 #-------------------------------
-[002] # Lappet Town
-Water,20
-    60,TENTACOOL,14,19
-    40,MAGIKARP,15,16
-    10,REMORAID,14,16
-#-------------------------------
 [005] # Bosque de Elbuin
 Land,21
     30,PIDGEY,3,5
@@ -41,7 +35,7 @@ Land,21
     30,ABRA,14,16
     30,ARON,14,16
     30,SNOVER,14,16
-    10,GROWLITHE,18
+    10,GROWLITHE,18,19
 #-------------------------------
 [040] # Bosque oscuro
 Land,21
@@ -62,42 +56,42 @@ Land,21
     30,TORKOAL,30,33
     30,DONPHAN,30,33
     30,ONIX,30,33
-    10,CAMERUPT,34
+    10,CAMERUPT,34,35
 #-------------------------------
 [046] # Monte Piedra Negra
 Cave,4
     30,DIGGERSBY,30,33
     30,BINACLE,30,33
     30,ROCKRUFF,30,33
-    10,GOLETT,34
+    10,GOLETT,34,35
 #-------------------------------
 [047] # Conexión BRM-BRD
 Cave,4
     30,DIGGERSBY,30,33
     30,BINACLE,30,33
     30,ROCKRUFF,30,33
-    10,GOLETT,34
+    10,GOLETT,34,35
 #-------------------------------
 [048] # Profundidades Piedra Negra
 Cave,4
     32,CRUSTLE,35,37
     32,DARMANITAN,35,37
     30,CLAYDOL,35,37
-    6,GIBLE,37
+    6,GIBLE,37,38
 #-------------------------------
 [050] # Cumbre Piedra Negra
 Land,21
     30,BOUFFALANT,35,37
     30,KROKOROK,35,37
     30,EXCADRILL,35,37
-    10,ARCHEN,37
+    10,ARCHEN,37,38
 #-------------------------------
 [053] # Terraza Cumbre Piedra Negra
 Land,21
     30,HERACROSS,35,37
     30,SKARMORY,35,37
     30,GASTRODON,35,37
-    10,GOGOAT,37
+    10,GOGOAT,37,38
 #-------------------------------
 [056] # Vega de Espina Torcida
 Land,21
@@ -105,8 +99,8 @@ Land,21
     20,PRIMEAPE,39,41
     20,PASSIMIAN,39,41
     20,KROOKODILE,39,41
-    10,JANGMOO,42
-    10,SLAKOTH,20
+    10,JANGMOO,42,43
+    10,SLAKOTH,20,21
 Water,2
     60,DREDNAW,40,41
     40,FERALIGATR,39,41
@@ -245,42 +239,3 @@ Land,21
     20,GLALIE,82,84
     20,WALREIN,82,84
     20,BEARTIC,82,84
-
-
-[031] # Route 3
-Land,21
-    30,NIDORANfE,12,15
-    30,NIDORANmA,12,15
-    20,PIKACHU,14,17
-    10,EEVEE,15
-    10,PONYTA,13,15
-Water,2
-    60,SURSKIT,13,14
-    35,LOTAD,14
-    5,LOTAD,15
-OldRod
-    70,MAGIKARP,6,11
-    30,MAGIKARP,10,17
-GoodRod
-    60,POLIWAG,12,15
-    20,PSYDUCK,11,14
-    20,WOOPER,13,17
-SuperRod
-    40,CHINCHOU,11,12
-    40,REMORAID,12,14
-    20,LUVDISC,10,16
-RockSmash,50
-    60,NOSEPASS,13,14
-    40,GEODUDE,12,15
-HeadbuttLow
-    30,PINECO,14,17
-    25,COMBEE,15,17
-    20,PINECO,14,16
-    10,HERACROSS,16,18
-    9,HERACROSS,16,17
-    5,COMBEE,15,16
-    1,MUNCHLAX,13,18
-HeadbuttHigh
-    50,SEEDOT,14,17
-    30,SHROOMISH,14,17
-    20,BURMY,12,15
