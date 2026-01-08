@@ -3,5 +3,5 @@ begin
 rescue Exception => e
   puts e.message
 ensure
-  exit
+  Kernel.exit!
 end
