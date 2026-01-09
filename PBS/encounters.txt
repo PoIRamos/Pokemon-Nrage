@@ -1,5 +1,5 @@
 ﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
-#------------------------------- 
+#-------------------------------
 [005] # Bosque de Elbuin
 Land,21
     30,PIDGEY,3,5
