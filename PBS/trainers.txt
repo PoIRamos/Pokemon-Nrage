@@ -24,10 +24,6 @@ Pokemon = ONIX,14
 #==============================
 # BOSQUE DE ELBUIN
 #==============================
-[YOUNGSTER,Antonio]
-LoseText = ¡Buen combate!
-Pokemon = PIDOVE,5
-#-------------------------------
 [GAMBLER,Eustaquio]
 LoseText = *Castañea los dientes con enfado.*
 Pokemon = ODDISH,6
